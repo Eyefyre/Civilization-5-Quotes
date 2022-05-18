@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#background-image {
+    height:100vh;
+  }
+
+#black-faded-background{
+    height:100vh;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+#content{
+    text-align: center;
+    height:100vh;
+    color:#eeca44;
+    font-family: 'Tw Cen MT Condensed', sans-serif;
+}
+
+button{
+    color:#eeca44;
+    background-color: transparent;
+    border: none;
+}
+
+
