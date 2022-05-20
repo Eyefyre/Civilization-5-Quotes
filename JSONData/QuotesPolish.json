@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "Alhambra|Alhambry|Alhambrze|Alhambr\u0119",
+        "type": "wonder",
+        "quote": "Sprawiedliwo\u015b\u0107 jest twierdz\u0105 nie do zdobycia, wybudowan\u0105 na grzbiecie g\u00f3ry, kt\u00f3rej nie straszne ani gwa\u0142towne wichury, ani pot\u0119\u017cne armie.",
+        "quotee": "Joseph Addison",
+        "art": "Images/wonderconceptalahambra.png",
+        "sound": "Sounds/Polish/Alhambra.mp3"
+    },
+    {
+        "id": 2,
+        "name": "Wielka Biblioteka|Wielkiej Biblioteki|Wielkiej Bibliotece|Wielk\u0105 Bibliotek\u0119",
+        "type": "wonder",
+        "quote": "Biblioteki to \u015bwi\u0105tynie, w kt\u00f3rych przechowuje si\u0119 i piel\u0119gnuje wszystkie relikwie staro\u017cytnych \u015bwi\u0119tych, pe\u0142ne prawdziwej cnoty, a przy tym pozbawione z\u0142udze\u0144 i k\u0142amstw.",
+        "quotee": "Sir Francis Bacon",
+        "art": "Images/wonderconceptgreatlibrary.png",
+        "sound": null
+    },
+    {
+        "id": 3,
+        "name": "Mauzoleum w Halikarnasie",
+        "type": "wonder",
+        "quote": "Ca\u0142a ziemia jest grobowcem bohaterskich m\u0119\u017cczyzn, a ich historia jest nie tylko wyryta w kamieniu, lecz splata si\u0119 niewidocznymi ni\u0107mi z losami innych ludzi.",
+        "quotee": "Perykles",
+        "art": "Images/wondermosuleumhalicarnassus.png",
+        "sound": "Sounds/Polish/MausoleumOfHalicarnassus.mp3"
+    },
+    {
+        "id": 4,
+        "name": "Piramidy|Piramid|Piramidom",
+        "type": "wonder",
+        "quote": "Niech b\u00f3l \u015bmierci, kt\u00f3rego zaznasz, wejdzie w me cia\u0142o. Jam jest b\u00f3g Tem, najznamienitsza cz\u0119\u015b\u0107 nieba, a chroni mnie moc, kt\u00f3ra na zawsze jest w\u015br\u00f3d wszystkich bog\u00f3w.",
+        "quotee": "Ksi\u0119ga Umar\u0142ych, przet\u0142umaczona przez Sir Ernesta Alfreda Wallisa Budge'a",
+        "art": "Images/wonderconceptpyramids.png",
+        "sound": null
+    },
+    {
+        "id": 5,
+        "name": "Pos\u0105g Zeusa|Pos\u0105gu Zeusa|Pos\u0105gowi Zeusa",
+        "type": "wonder",
+        "quote": "Syn Kronosa przem\u00f3wi\u0142 i skin\u0105\u0142 g\u0142ow\u0105 z ciemnymi brwiami i na wieki namaszczone w\u0142osy wielkiego boga sp\u0142yn\u0119\u0142y z boskiej g\u0142owy, a ca\u0142y Olimp zatrz\u0105s\u0142 si\u0119 w posadach.",
+        "quotee": "Iliada",
+        "art": "Images/wonderconcepttemplezues.png",
+        "sound": "Sounds/Polish/StatueOfZeus.mp3"
+    },
+    {
+        "id": 6,
+        "name": "Stonehenge",
+        "type": "wonder",
+        "quote": "Czas kruszy wszystko; wszystko si\u0119 starzeje i zostaje zapomniane w obliczu pot\u0119gi czasu.",
+        "quotee": "Arystoteles",
+        "art": "Images/wonderconceptstonehedge.png",
+        "sound": null
+    },
+    {
+        "id": 7,
+        "name": "\u015awi\u0105tynia Artemidy|\u015awi\u0105tyni Artemidy|\u015awi\u0105tyni\u0119 Artemidy",
+        "type": "wonder",
+        "quote": "Nie tylko chodzi o pi\u0119kno, gdy las obejmuje we w\u0142adanie ludzkie serca, lecz tak\u017ce o to nieuchwytne co\u015b, specyficzne powietrze i emanacj\u0119 pradawnych drzew, kt\u00f3re tak wspaniale zmieniaj\u0105 i wzmacniaj\u0105 zm\u0119czonego ducha.",
+        "quotee": "Robert Louis Stevenson",
+        "art": "Images/wondertempleartemis.png",
+        "sound": "Sounds/Polish/TempleOfArtemis.mp3"
+    },
+    {
+        "id": 8,
+        "name": "Kolos|Kolosa|Kolosowi",
+        "type": "wonder",
+        "quote": "Cz\u0142owiek ten stan\u0105\u0142 okrakiem nad \u015bwiatem jak Kolos, gdy my, ludzie malusie\u0144cy, spod jego wielkich n\u00f3g zerkamy wok\u00f3\u0142, szukaj\u0105c sobie upodlonych grob\u00f3w.",
+        "quotee": "William Szekspir, Juliusz Cezar",
+        "art": "Images/wonderconceptcolossus.png",
+        "sound": null
+    },
+    {
+        "id": 9,
+        "name": "Latarnia z Faros|Latarni z Faros|Latarni\u0119 z Faros",
+        "type": "wonder",
+        "quote": "Ci, kt\u00f3rzy na statkach ruszyli na morze, aby uprawia\u0107 handel na ogromnych wodach, ci widzieli dzie\u0142a Pana i jego cuda w\u015br\u00f3d g\u0142\u0119biny.",
+        "quotee": "Biblia, Ksi\u0119ga Psalm\u00f3w 107,23-24",
+        "art": "Images/wonderconceptgreatlighthouse.png",
+        "sound": null
+    },
+    {
+        "id": 10,
+        "name": "Wielki Mur|Wielkiego Muru|Wielkiemu Murowi",
+        "type": "wonder",
+        "quote": "Sztuka wojny uczy nas nie polega\u0107 na prawdopodobie\u0144stwie tego, i\u017c wr\u00f3g nie zaatakuje, a na tym, \u017ce nasze pozycje s\u0105 niedost\u0119pne.",
+        "quotee": "Sun Zi",
+        "art": "Images/wonderconceptgreatwall.png",
+        "sound": null
+    },
+    {
+        "id": 11,
+        "name": "Wisz\u0105ce Ogrody|Wisz\u0105cych Ogrod\u00f3w|Wisz\u0105cym Ogrodom",
+        "type": "wonder",
+        "quote": "S\u0105dz\u0119, \u017ce je\u015bli \u015bmiertelnik mo\u017ce gdzie\u015b us\u0142ysze\u0107 g\u0142os Boga, to tylko w ogrodzie, w rze\u015bki dzie\u0144.",
+        "quotee": "F. Frankfort Moore",
+        "art": "Images/wonderconcepthanginggardens.png",
+        "sound": null
+    },
+    {
+        "id": 12,
+        "name": "Wyrocznia|Wyroczni|Wyroczni\u0119|Wyrocznie|Wyroczniom",
+        "type": "wonder",
+        "quote": "Staro\u017cytna Wyrocznia powiedzia\u0142a, \u017ce jestem najm\u0105drzejszym z Grek\u00f3w. Bo tylko ja ze wszystkich Grek\u00f3w wiem, \u017ce nic nie wiem.",
+        "quotee": "Sokrates",
+        "art": "Images/wonderconceptoracle.png",
+        "sound": null
+    },
+    {
+        "id": 13,
+        "name": "Partenon|Partenonu|Partenonowi",
+        "type": "wonder",
+        "quote": "Ziemia z dum\u0105 nosi na sobie Partenon jak najpi\u0119kniejszy klejnot.",
+        "quotee": "Ralph Waldo Emerson",
+        "art": "Images/wonderconceptparthenon.png",
+        "sound": "Sounds/Polish/Parthenon.mp3"
+    },
+    {
+        "id": 14,
+        "name": "Petra|Petry|Petrze|Petr\u0119",
+        "type": "wonder",
+        "quote": "...kto za\u015b b\u0119dzie pi\u0142 wod\u0119, kt\u00f3r\u0105 Ja mu dam, nie b\u0119dzie pragn\u0105\u0142 na wieki, lecz woda, kt\u00f3r\u0105 Ja mu dam, stanie si\u0119 w nim \u017ar\u00f3d\u0142em wody wytryskuj\u0105cej ku \u017cyciu wiecznemu. Niech dane mi b\u0119dzie dotrze\u0107 do \u015awi\u0119tej G\u00f3ry poprzez pustyni\u0119, g\u00f3ry i Dolin\u0119 P\u00f3\u0142ksi\u0119\u017cyca, a\u017c do \u015bwi\u0105tyni, gdzie spoczywa Czara.",
+        "quotee": "Indiana Jones",
+        "art": "Images/wonderconceptpetra.png",
+        "sound": "Sounds/Polish/Petra.mp3"
+    },
+    {
+        "id": 15,
+        "name": "Terakotowa Armia|Terakotowej Armii|Terakotow\u0105 Armi\u0119",
+        "type": "wonder",
+        "quote": "Traktuj swych \u017co\u0142nierzy jak syn\u00f3w, a p\u00f3jd\u0105 za tob\u0105 w najg\u0142\u0119bsze doliny. Patrz na nich jak na syn\u00f3w umi\u0142owanych, a stan\u0105 u twego boku nawet w obliczu \u015bmierci.",
+        "quotee": "Sun Zi",
+        "art": "Images/wonderconceptterracottaarmy.png",
+        "sound": "Sounds/Polish/TerraCottaArmy.mp3"
+    },
+    {
+        "id": 16,
+        "name": "Angkor Wat|Angkor Watu|Angkor Watowi",
+        "type": "wonder",
+        "quote": "Ta \u015bwi\u0105tynia\u2026 nie ma sobie r\u00f3wnych w ca\u0142ym \u015bwiecie. Ma wie\u017ce, zdobienia i ca\u0142e wyrafinowanie, kt\u00f3re m\u00f3g\u0142 stworzy\u0107 geniusz cz\u0142owieka.",
+        "quotee": "Antonio da Magdalena",
+        "art": "Images/wonderconceptangkorwat.png",
+        "sound": null
+    },
+    {
+        "id": 17,
+        "name": "Borobudur|Borobudura|Borobudurowi",
+        "type": "wonder",
+        "quote": "Gdy zdasz sobie spraw\u0119 z tej perfekcji, odchylisz g\u0142ow\u0119 i za\u015bmiejesz si\u0119 w niebo.",
+        "quotee": "Gautama Budda",
+        "art": "Images/wonderconceptborobudur.png",
+        "sound": "Sounds/Polish/Borobudur.mp3"
+    },
+    {
+        "id": 18,
+        "name": "Chichen Itza|Chichen Itzy",
+        "type": "wonder",
+        "quote": "Katun jest w Chichen Itza. Tam powstanie osada Itza. Przyb\u0119dzie kwezal, przyb\u0119dzie zielony ptak. Przyb\u0119dzie Ah Kantenal. [\u2026] Oto s\u0142owo bo\u017ce. Itza przyb\u0119dzie.",
+        "quotee": "Ksi\u0119gi Chilam Balam",
+        "art": "Images/wonderconceptchichenitza.png",
+        "sound": null
+    },
+    {
+        "id": 19,
+        "name": "Wielki Meczet w D\u017cenne|Wielkiego Meczetu w D\u017cenne|Wielkiemu Meczetowi w D\u017cenne",
+        "type": "wonder",
+        "quote": "W obliczu pot\u0119gi niesko\u0144czono\u015bci pozw\u00f3lmy, aby czas, z jego wszystkimi fluktuacjami, skurczy\u0142 si\u0119 do w\u0142asnej ma\u0142o\u015bci.",
+        "quotee": "Thomas Chalmers",
+        "art": "Images/wonderconceptdjennie.png",
+        "sound": "Sounds/Polish/GreatMosqueOfDjenne.mp3"
+    },
+    {
+        "id": 20,
+        "name": "Hagia Sophia|Hagii Sophii|Hagi\u0119 Sophi\u0119",
+        "type": "wonder",
+        "quote": "Wyrasta a\u017c po sam niebosk\u0142on, jakby wystrzeliwuj\u0105c spo\u015br\u00f3d innych budynk\u00f3w, stoi wysoko i spogl\u0105da w d\u00f3\u0142 na reszt\u0119 miasta, podziwiaj\u0105c je, bo jest jego cz\u0119\u015bci\u0105, a jednocze\u015bnie p\u0142awi si\u0119 we w\u0142asnym pi\u0119knie.",
+        "quotee": "Prokopiusz De Aedificis",
+        "art": "Images/wonderconcepthagiasophia.png",
+        "sound": null
+    },
+    {
+        "id": 21,
+        "name": "Machu Picchu",
+        "type": "wonder",
+        "quote": "Niewiele romans\u00f3w mo\u017ce si\u0119 r\u00f3wna\u0107 ze zwi\u0105zkiem granitowej cytadeli stoj\u0105cej na strzelistych urwiskach Machu Picchu, korony Kraju Ink\u00f3w.",
+        "quotee": "Hiram Bingham",
+        "art": "Images/wonderconceptmachupicchu.png",
+        "sound": null
+    },
+    {
+        "id": 22,
+        "name": "Notre Dame",
+        "type": "wonder",
+        "quote": "Architektura to zapis wspania\u0142ych idei ludzko\u015bci. W tej obszernej ksi\u0119dze swe miejsce ma nie tylko ka\u017cdy symbol religijny, ale tak\u017ce ka\u017cda my\u015bl cz\u0142owiecza.",
+        "quotee": "Victor Hugo",
+        "art": "Images/wonderconceptnotredame.png",
+        "sound": null
+    },
+    {
+        "id": 23,
+        "name": "Zakazany Pa\u0142ac|Zakazanego Pa\u0142acu|Zakazanemu Pa\u0142acowi",
+        "type": "wonder",
+        "quote": "Wi\u0119kszo\u015b\u0107 z nas mo\u017ce wybra\u0107, czy \u015bwiat b\u0119dzie nam pa\u0142acem, czy wi\u0119zieniem.",
+        "quotee": "John Lubbock",
+        "art": "Images/wonderconceptforbiddenpalace.png",
+        "sound": null
+    },
+    {
+        "id": 24,
+        "name": "Globe Theatre",
+        "type": "wonder",
+        "quote": "Totus mundus agit histrionem",
+        "quotee": "Napis widoczny nad wej\u015bciem do Globe Theatre",
+        "art": "Images/wonderconceptglobe.png",
+        "sound": "Sounds/Polish/GlobeTheatre.mp3"
+    },
+    {
+        "id": 25,
+        "name": "Zamek Himeji|Zamku Himeji|Zamkowi Himeji",
+        "type": "wonder",
+        "quote": "Bushido - Droga wojownika - ujawnia si\u0119 w obecno\u015bci \u015bmierci. Oznacza wybranie \u015bmierci, gdy do wyboru jest \u017cycie lub \u015bmier\u0107. Nie ma innego uzasadnienia.",
+        "quotee": "Yamamoto Tsunetomo",
+        "art": "Images/wonderconcepthimejicastle.png",
+        "sound": null
+    },
+    {
+        "id": 26,
+        "name": "Krzywa Wie\u017ca w Pizie|Krzywej Wie\u017cy w Pizie|Krzyw\u0105 Wie\u017c\u0119 w Pizie",
+        "type": "wonder",
+        "quote": "Nie klaszczcie za mocno - to bardzo stary budynek.",
+        "quotee": "John Osborne",
+        "art": "Images/wonderconceptleaningtower.png",
+        "sound": "Sounds/Polish/LeaningTower.mp3"
+    },
+    {
+        "id": 27,
+        "name": "Porcelanowa Wie\u017ca|Porcelanowej Wie\u017cy|Porcelanow\u0105 Wie\u017c\u0119",
+        "type": "wonder",
+        "quote": "Kiedy patrzymy w przesz\u0142o\u015b\u0107, wszystko wydaje si\u0119 pi\u0119kniejsze i w\u0142a\u015bnie w tej niedost\u0119pnej wie\u017cy przesz\u0142o\u015bci rodzi si\u0119 T\u0119sknota.",
+        "quotee": "James Russell Lowell",
+        "art": "Images/wonderconceptporcelaintower.png",
+        "sound": null
+    },
+    {
+        "id": 28,
+        "name": "Czerwony Fort|Czerwonego Fortu|Czerwonemu Fortowi",
+        "type": "wonder",
+        "quote": "Gdy budujemy, zak\u0142adajmy, \u017ce budowla ma przetrwa\u0107 wieczno\u015b\u0107",
+        "quotee": "John Ruskin",
+        "art": "Images/wonderconceptredfort.png",
+        "sound": "Sounds/Polish/RedFort.mp3"
+    },
+    {
+        "id": 29,
+        "name": "Kaplica Syksty\u0144ska|Kaplicy Syksty\u0144skiej|Kaplic\u0119 Syksty\u0144sk\u0105",
+        "type": "wonder",
+        "quote": "\u017byj\u0119 i kocham w bo\u017cym blasku.",
+        "quotee": "Micha\u0142 Anio\u0142 Buonarroti",
+        "art": "Images/wonderconceptsistinechapel.png",
+        "sound": null
+    },
+    {
+        "id": 30,
+        "name": "Tad\u017c Mahal",
+        "type": "wonder",
+        "quote": "Tad\u017c Mahal wznosi si\u0119 nad brzegiem rzeki niczym samotna \u0142za wisz\u0105ca na policzku czasu.",
+        "quotee": "Rabindranath Tagore",
+        "art": "Images/wonderconcepttajmahal.png",
+        "sound": null
+    },
+    {
+        "id": 31,
+        "name": "Galeria Uffizi|Galerii Uffizi|Galeri\u0119 Uffizi",
+        "type": "wonder",
+        "quote": "Malarz nie jest jedynie kim\u015b, kto spojrzy i widzi. Jest przede wszystkim kim\u015b, kto przekazuje osobist\u0105 wizj\u0119, ubieraj\u0105c j\u0105 w barwy.",
+        "quotee": "Marcel Paquet",
+        "art": "Images/wonderconceptuffizi.png",
+        "sound": "Sounds/Polish/Uffizi.mp3"
+    },
+    {
+        "id": 32,
+        "name": "Big Ben|Big Bena|Big Benowi",
+        "type": "wonder",
+        "quote": "\u017beby dokona\u0107 czego\u015b wielkiego, potrzeba dw\u00f3ch rzeczy: planu i zbyt ma\u0142o czasu.",
+        "quotee": "Leonard Bernstein",
+        "art": "Images/wonderconceptbigben.png",
+        "sound": null
+    },
+    {
+        "id": 33,
+        "name": "Brama Brandenburska|Bramy Brandenburskiej|Bramie Brandenburskiej|Bram\u0119 Brandenbursk\u0105",
+        "type": "wonder",
+        "quote": "Blada \u015amier\u0107 puka zar\u00f3wno do drzwi biedaka, jak i do pa\u0142ac\u00f3w kr\u00f3l\u00f3w.",
+        "quotee": "Horacy",
+        "art": "Images/wonderconceptbrandenburg.png",
+        "sound": null
+    },
+    {
+        "id": 34,
+        "name": "Luwr|Luwru|Luwrowi",
+        "type": "wonder",
+        "quote": "Ka\u017cde prawdziwe dzie\u0142o sztuki pod wieloma wzgl\u0119dami przypomina ziemi\u0119 i s\u0142o\u0144ce.",
+        "quotee": "Ralph Waldo Emerson",
+        "art": "Images/wonderconceptlouvre.png",
+        "sound": null
+    },
+    {
+        "id": 35,
+        "name": "Broadway|Broadwayu|Broadwayowi",
+        "type": "wonder",
+        "quote": "Broadway to g\u0142\u00f3wna arteria \u017cycia kulturalnego Nowego Jorku. Zahartowana arteria.",
+        "quotee": "Walter Winchell",
+        "art": "Images/wonderconceptbroadway.png",
+        "sound": "Sounds/Polish/Broadway.mp3"
+    },
+    {
+        "id": 36,
+        "name": "Wie\u017ca Eiffla|Wie\u017cy Eiffla|Wie\u017c\u0119 Eiffla",
+        "type": "wonder",
+        "quote": "\u017byjemy tylko po to, aby odkrywa\u0107 pi\u0119kno. Wszystko inne jest jedynie sztuk\u0105 oczekiwania.",
+        "quotee": "Kahlil Gibran",
+        "art": "Images/wonderconcepteiffeltower.png",
+        "sound": null
+    },
+    {
+        "id": 37,
+        "name": "Kreml|Kremla|Kremlowi",
+        "type": "wonder",
+        "quote": "Prawo to forteca na wzg\u00f3rzu, kt\u00f3rego nie zdob\u0119dzie \u017cadna armia i nie poch\u0142onie pow\u00f3d\u017a.",
+        "quotee": "Prorok Mahomet",
+        "art": "Images/wonderconceptkremlin.png",
+        "sound": null
+    },
+    {
+        "id": 38,
+        "name": "Neuschwanstein|Neuschwansteina|Neuschwansteinowi",
+        "type": "wonder",
+        "quote": "...miejsce to jest jednym z najpi\u0119kniejszych, jakie mo\u017cna znale\u017a\u0107. \u015awi\u0119te i niedost\u0119pne. Prawdziwa \u015bwi\u0105tynia ku czci boskiego przyjaciela, kt\u00f3ry przyprowadzi\u0142 wybawienie i prawdziwe b\u0142ogos\u0142awie\u0144stwo dla \u015bwiata.",
+        "quotee": "Kr\u00f3l Ludwig II Bawarski",
+        "art": "Images/wonderconceptneuschwanstein.png",
+        "sound": "Sounds/Polish/Neuschwanstein.mp3"
+    },
+    {
+        "id": 39,
+        "name": "Prora|Prory|Prorze|Pror\u0119",
+        "type": "wonder",
+        "quote": "Ta utrata (wolno\u015bci) oznacza zanik drogocennych ludziom warto\u015bci. Zostaj\u0105 jedynie \u017celazne zasady rekrutacji na stanowiska i trywialne rozrywki.",
+        "quotee": "A.N. Whitehead",
+        "art": "Images/wonderconceptprora.png",
+        "sound": "Sounds/Polish/Prora.mp3"
+    },
+    {
+        "id": 40,
+        "name": "Statua Wolno\u015bci|Statuy Wolno\u015bci|Statule Wolno\u015bci|Statu\u0119 Wolno\u015bci",
+        "type": "wonder",
+        "quote": "Daj mi twoje zm\u0119czenie i bied\u0119,I twoich westchnie\u0144 do wolno\u015bci bez\u0142ad,Wszystkie odrzucenia, n\u0119dze, ca\u0142\u0105 \u017cycia sched\u0119,Wy\u015blij je, bezdomny, i rzu\u0107 je na wiatr:Podnios\u0119 m\u0105 lamp\u0119 obok z\u0142otych drzwi. Jak wieniec na met\u0119.",
+        "quotee": "Emma Lazarus",
+        "art": "Images/wonderconceptstatueliberty.png",
+        "sound": null
+    },
+    {
+        "id": 41,
+        "name": "Chrystus Zbawiciel|Chrystusa Zbawiciela|Chrystusowi Zbawicielowi",
+        "type": "wonder",
+        "quote": "Przyjd\u017acie do Mnie wszyscy, kt\u00f3rzy utrudzeni i obci\u0105\u017ceni jeste\u015bcie, a Ja was pokrzepi\u0119.",
+        "quotee": "Biblia, Ew. wg \u015bw. Mateusza 25,28",
+        "art": "Images/wonderconceptchristoredentor.png",
+        "sound": null
+    },
+    {
+        "id": 42,
+        "name": "Wielka Zapora|Wielkiej Zapory|Wielkiej Zaporze|Wielk\u0105 Zapor\u0119",
+        "type": "wonder",
+        "quote": "Nieufno\u015b\u0107 i ostro\u017cno\u015b\u0107 rodz\u0105 bezpiecze\u0144stwo.",
+        "quotee": "Benjamin Franklin",
+        "art": "Images/wonderconceptgreatfirewall.png",
+        "sound": "Sounds/Polish/GreatFirewall.mp3"
+    },
+    {
+        "id": 43,
+        "name": "Pentagon|Pentagonu|Pentagonowi",
+        "type": "wonder",
+        "quote": "Przygotowuj\u0105c si\u0119 do bitwy, zawsze si\u0119 przekonywa\u0142em, \u017ce plany s\u0105 bezu\u017cyteczne, ale planowanie jest niezb\u0119dne.",
+        "quotee": "Dwight D. Eisenhower",
+        "art": "Images/wonderconceptpentagon.png",
+        "sound": null
+    },
+    {
+        "id": 44,
+        "name": "Opera w Sydney|Opery w Sydney|Operze w Sydney|Oper\u0119 w Sydney",
+        "type": "wonder",
+        "quote": "Ci, kt\u00f3rzy zgubi\u0105 marzenia, sami s\u0105 zgubieni.",
+        "quotee": "przys\u0142owie Aborygen\u00f3w",
+        "art": "Images/wonderconceptsydneyoperahouse.png",
+        "sound": null
+    },
+    {
+        "id": 45,
+        "name": "Wie\u017ca CN|Wie\u017cy CN|Wie\u017c\u0119 CN",
+        "type": "wonder",
+        "quote": "Nic nie porusza si\u0119 szybciej od \u015bwiat\u0142a, mo\u017ce poza z\u0142ymi wie\u015bciami, kt\u00f3re rz\u0105dz\u0105 si\u0119 w\u0142asnymi prawami.",
+        "quotee": "Douglas Adams",
+        "art": "Images/wonderconceptcntower.png",
+        "sound": "Sounds/Polish/CNTower.mp3"
+    },
+    {
+        "id": 46,
+        "name": "Kosmiczny Teleskop Hubble'a|Kosmicznego Teleskopu Hubble'a|Kosmicznemu Teleskopowi Hubble'a",
+        "type": "wonder",
+        "quote": "Cudem nie jest to wielkie pole gwiazd, lecz to, \u017ce cz\u0142owiekowi uda\u0142o si\u0119 je zmierzy\u0107.",
+        "quotee": "Anatole France",
+        "art": "Images/wonderconcepthubble.png",
+        "sound": "Sounds/Polish/HubbleSpaceTelescope.mp3"
+    },
+    {
+        "id": 47,
+        "name": "Mi\u0119dzynarodowa stacja kosmiczna|Mi\u0119dzynarodowej stacji kosmicznej|Mi\u0119dzynarodow\u0105 stacj\u0119 kosmiczn\u0105|Mi\u0119dzynarodowe stacje kosmiczne|Mi\u0119dzynarodowych stacji kosmicznych|Mi\u0119dzynarodowym stacjom kosmicznym",
+        "type": "wonder",
+        "quote": "Budowanie po jednej stacji kosmicznej dla ka\u017cdego by\u0142o i jest szale\u0144stwem. Trzeba by\u0142o zbudowa\u0107 po dziesi\u0119\u0107.",
+        "quotee": "Larry Niven",
+        "art": "Images/wonderconceptspacestation.png",
+        "sound": "Sounds/Polish/InternationalSpaceStation.mp3"
+    },
+    {
+        "id": 48,
+        "name": "ONZ",
+        "type": "wonder",
+        "quote": "Dzi\u015b, bardziej ni\u017c kiedykolwiek w historii ludzko\u015bci, \u0142\u0105czy nas przeznaczenie. Sprostamy mu tylko wtedy, gdy zmierzymy si\u0119 z nim razem. I w\u0142a\u015bnie po to mamy ONZ.",
+        "quotee": "Kofi Annan",
+        "art": "Images/wonderconceptun.png",
+        "sound": null
+    }
+]

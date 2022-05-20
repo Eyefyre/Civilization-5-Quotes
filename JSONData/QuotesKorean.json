@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "\uc54c\ud568\ube0c\ub77c \uad81\uc804",
+        "type": "wonder",
+        "quote": "\uc815\uc758\ub780 \uae09\ub958\ub098 \uad70\ub300\ub85c\ub3c4 \ubb34\ub108\ud2b8\ub9b4 \uc218 \uc5c6\ub294 \uc0b0\uaf2d\ub300\uae30\uc5d0 \uc138\uc6b4 \ubb34\uc801\uc758 \uc694\uc0c8\ub2e4.",
+        "quotee": "\uc870\uc800\ud504 \uc5d0\ub514\uc2a8",
+        "art": "Images/wonderconceptalahambra.png",
+        "sound": null
+    },
+    {
+        "id": 2,
+        "name": "\uc54c\ub809\uc0b0\ub4dc\ub9ac\uc544 \ub3c4\uc11c\uad00",
+        "type": "wonder",
+        "quote": "\ub3c4\uc11c\uad00\uc740, \uc9c4\uc815\ud55c \ubbf8\ub355\uc73c\ub85c \uac00\ub4dd\ud55c \uace0\ub300 \ud604\uc778\uc758 \ubaa8\ub4e0 \uc720\ubb3c\uc774, \uadf8\ub9ac\uace0 \ud604\ud639\uacfc \uae30\ub9cc\uc774 \uc5c6\ub294 \ubaa8\ub4e0 \uac83\uc774 \ubcf4\uc874\ub418\uc5b4 \uc548\uc2dd\ud558\ub294 \uc2e0\uc804\uc774\ub2e4.",
+        "quotee": "\ud504\ub79c\uc2dc\uc2a4 \ubca0\uc774\ucee8 \uacbd",
+        "art": "Images/wonderconceptgreatlibrary.png",
+        "sound": null
+    },
+    {
+        "id": 3,
+        "name": "\ud560\ub9ac\uce74\ub974\ub098\uc18c\uc2a4\uc758 \ub9c8\uc6b0\uc194\ub808\uc6c0",
+        "type": "wonder",
+        "quote": "\uc601\uc6c5\uc758 \ubc1c\uc790\ucde8\ub294 \uc11d\uc0c1\uacfc \ube44\uc11d\uc5d0\uc11c\ub9cc \ucc3e\uc744 \uc218 \uc788\ub294 \uac83\uc774 \uc544\ub2c8\ub2e4. \uadf8\ub4e4\uc758 \uc774\uc57c\uae30\ub294 \uc774 \uc138\uc0c1 \ubaa8\ub4e0 \uc0ac\ub78c\uc758 \uc0b6\uc5d0 \ub179\uc544 \uc788\ub2e4.",
+        "quotee": "\ud398\ub9ac\ud074\ub808\uc2a4",
+        "art": "Images/wondermosuleumhalicarnassus.png",
+        "sound": null
+    },
+    {
+        "id": 4,
+        "name": "\ud53c\ub77c\ubbf8\ub4dc",
+        "type": "wonder",
+        "quote": "\uc624, \uadf8\ub300\uc5d0\uac8c \ucc3e\uc544\uc628 \uc8fd\uc74c\uc758 \uace0\ud1b5\uc774 \ub098\uc758 \uc721\uccb4\uc5d0 \ub4e4\uc9c0 \uc54a\uae30\ub97c. \ub098\ub294 \ud15c \uc2e0\uc73c\ub85c\uc11c, \ud558\ub298 \uaf2d\ub300\uae30\uc5d0 \uac70\ud558\uba70, \uc601\uc6d0\ud788 \ubaa8\ub4e0 \uc2e0\uacfc \ud568\uaed8 \ud558\ub294 \ud798\uc774 \ub098\ub97c \ubcf4\ud638\ud560\uc9c0\ub2c8.",
+        "quotee": "\uc0ac\uc790\uc758 \uc11c, E.A. \uc6d4\ub9ac\uc2a4 \ubc84\uc9c0 \uacbd \uc5ed",
+        "art": "Images/wonderconceptpyramids.png",
+        "sound": null
+    },
+    {
+        "id": 5,
+        "name": "\uc81c\uc6b0\uc2a4 \ub3d9\uc0c1",
+        "type": "wonder",
+        "quote": "\ub208\uc379\uc774 \uc9d9\uc740 \ud06c\ub85c\ub178\uc2a4\uc758 \uc544\ub4e4\uc774 \uace0\uac1c\ub97c \ub044\ub355\uc774\uba70 \ub300\ub2f5\ud558\uc790 \uc774 \uc704\ub300\ud55c \uc2e0\uc758 \uba38\ub9bf\uacb0\uc774 \ud769\ub0a0\ub9ac\uba70 \uc62c\ub9bc\ud478\uc2a4 \uc804\uccb4\uac00 \uc9c4\ub3d9\ud588\ub2e4.",
+        "quotee": "\uc77c\ub9ac\uc544\ub4dc",
+        "art": "Images/wonderconcepttemplezues.png",
+        "sound": null
+    },
+    {
+        "id": 6,
+        "name": "\uc2a4\ud1a4\ud5e8\uc9c0",
+        "type": "wonder",
+        "quote": "\uc0ac\ubb3c\uc740 \uc2dc\uac04\uacfc \ud568\uaed8 \uc2a4\ub7ec\uc9c4\ub2e4. \uc2dc\uac04\uc758 \ud798 \uc544\ub798 \ub9cc\ubb3c\uc774 \ub299\uc5b4\uac00\uace0 \uc78a\ud600\uc9c4\ub2e4.",
+        "quotee": "\uc544\ub9ac\uc2a4\ud1a0\ud154\ub808\uc2a4",
+        "art": "Images/wonderconceptstonehedge.png",
+        "sound": null
+    },
+    {
+        "id": 7,
+        "name": "\uc544\ub974\ud14c\ubbf8\uc2a4 \uc0ac\uc6d0",
+        "type": "wonder",
+        "quote": "\uc778\uac04\uc774 \uc232\uc744 \ub3d9\uacbd\ud558\ub294 \uc774\uc720\ub294 \uadf8\uc800 \uc232\uc774 \uc544\ub984\ub2e4\uc6cc\uc11c\uac00 \uc544\ub2c8\ub77c \uc624\ub798\ub41c \uc232\uc758 \uace0\ubaa9\uc5d0\uc11c \ubfdc\uc5b4\uc838 \ub098\uc624\ub294 \uacf5\uae30\uc5d0 \uc874\uc7ac\ud558\ub294 \ubbf8\ubb18\ud55c \ubb34\uc5c7\uc778\uac00\uac00 \uc0ac\ub78c\uc758 \uc9c0\uce5c \uc601\ud63c\uc5d0 \ud65c\uae30\ub97c \ubd88\uc5b4\ub123\uc5b4 \uc8fc\uace0 \ud68c\ubcf5\uc2dc\ucf1c \uc8fc\uae30 \ub54c\ubb38\uc774\ub2e4.",
+        "quotee": "\ub85c\ubc84\ud2b8 \ub8e8\uc774\uc2a4 \uc2a4\ud2f0\ube10\uc2a8",
+        "art": "Images/wondertempleartemis.png",
+        "sound": null
+    },
+    {
+        "id": 8,
+        "name": "\uac70\uc2e0\uc0c1",
+        "type": "wonder",
+        "quote": "\uadf8\ub294 \uadf8 \uc881\uc740 \uc138\uc0c1\uc5d0 \uac70\uc2e0\uc0c1\ucc98\ub7fc \uc6b0\ub69d \uc11c \uc788\uace0, \uc6b0\ub9ac \ud558\ucc2e\uc740 \uc790\ub4e4\uc740 \uadf8 \uac70\ub300\ud55c \ub2e4\ub9ac \uc0ac\uc774\ub97c \uc9c0\ub098\ub2e4\ub2c8\uba70 \ubd80\ub044\ub7ec\uc6b4 \ubb34\ub364\uc790\ub9ac\ub97c \ubd10\ub450\ub824\uace0 \uc8fc\ubcc0\uc744 \ud790\ub054\uac70\ub9ac\uc9c0.",
+        "quotee": "\uc70c\ub9ac\uc5c4 \uc170\uc775\uc2a4\ud53c\uc5b4: \uc904\ub9ac\uc5b4\uc2a4 \uc2dc\uc800",
+        "art": "Images/wonderconceptcolossus.png",
+        "sound": null
+    },
+    {
+        "id": 9,
+        "name": "\uc54c\ub809\uc0b0\ub4dc\ub9ac\uc544 \ub4f1\ub300",
+        "type": "wonder",
+        "quote": "\ubc30\ub4e4\uc744 \ubc14\ub2e4\uc5d0 \ub744\uc6b0\uba70 \ud070 \ubb3c\uc5d0\uc11c \uc77c\uc744 \ud558\ub294 \uc790\ub294\n\uc5ec\ud638\uc640\uaed8\uc11c \ud589\ud558\uc2e0 \uc77c\ub4e4\uacfc \uadf8\uc758 \uae30\uc774\ud55c \uc77c\ub4e4\uc744 \uae4a\uc740 \ubc14\ub2e4\uc5d0\uc11c \ubcf4\ub098\ub2c8.",
+        "quotee": "\uc131\uacbd, \uc2dc\ud3b8 107:23-24",
+        "art": "Images/wonderconceptgreatlighthouse.png",
+        "sound": null
+    },
+    {
+        "id": 10,
+        "name": "\ub9cc\ub9ac\uc7a5\uc131",
+        "type": "wonder",
+        "quote": "\ubcd1\ubc95\uc740 \uc801\uad70\uc774 \uccd0\ub4e4\uc5b4\uc624\uc9c0 \uc54a\uae30\ub97c \ubc14\ub77c\ub294 \uac83\uc774 \uc544\ub2c8\ub77c, \uc801\uad70\uc774 \uc6b0\ub9ac\ub97c \uacf5\uaca9\ud560 \uc5c4\ub450\uac00 \ub098\uc9c0 \uc54a\uc744 \ubc29\ube44 \ud0dc\uc138\uc5d0 \uc758\uc9c0\ud574\uc57c \ud558\ub294 \uac83\uc774\ub2e4.",
+        "quotee": "\uc190\uc790",
+        "art": "Images/wonderconceptgreatwall.png",
+        "sound": null
+    },
+    {
+        "id": 11,
+        "name": "\uacf5\uc911 \uc815\uc6d0",
+        "type": "wonder",
+        "quote": "\ub9cc\uc5d0 \ud558\ub098 \uc778\uac04\uc774 \uc2e0\uc758 \ub9d0\uc500\uc744 \ub4e3\uac8c \ub41c\ub2e4\uba74, \uadf8\uac83\uc740 \uc11c\ub298\ud55c \uc544\uce68 \uc815\uc6d0\uc5d0\uc11c\uc77c \uac83\uc774\ub2e4.",
+        "quotee": "F. \ud504\ub7ad\ud06c\ud3ec\ud2b8 \ubb34\uc5b4",
+        "art": "Images/wonderconcepthanginggardens.png",
+        "sound": null
+    },
+    {
+        "id": 12,
+        "name": "\uc624\ub77c\ud074",
+        "type": "wonder",
+        "quote": "\uace0\ub300 \uc624\ub77c\ud074\uc740 \ub0b4\uac00 \uadf8\ub9ac\uc2a4\uc5d0\uc11c \uac00\uc7a5 \ud604\uba85\ud558\ub2e4 \ud558\uc600\ub2e4. \uadf8\uac83\uc740, \ubaa8\ub4e0 \uadf8\ub9ac\uc2a4\uc778 \uc911 \ub098\ub9cc\uc774, \ub0b4\uac00 \uc544\ubb34\uac83\ub3c4 \ubaa8\ub978\ub2e4\ub294 \uc0ac\uc2e4\uc744 \uc54c\uae30 \ub54c\ubb38\uc774\ub2e4.",
+        "quotee": "\uc18c\ud06c\ub77c\ud14c\uc2a4",
+        "art": "Images/wonderconceptoracle.png",
+        "sound": null
+    },
+    {
+        "id": 13,
+        "name": "\ud30c\ub974\ud14c\ub17c \uc2e0\uc804",
+        "type": "wonder",
+        "quote": "\ud30c\ub974\ud14c\ub17c \uc2e0\uc804\uc774\uc57c\ub9d0\ub85c \uc9c0\uad6c\uc5d0 \uc788\ub294 \uae30\ub150\ubb3c\uc911 \uc73c\ub738\uc774\ub2e4.",
+        "quotee": "\ud314\ud504 \uc648\ub3c4 \uc5d0\uba38\uc2a8",
+        "art": "Images/wonderconceptparthenon.png",
+        "sound": null
+    },
+    {
+        "id": 14,
+        "name": "\ud398\ud2b8\ub77c",
+        "type": "wonder",
+        "quote": "...\ub0b4\uac00 \uc8fc\ub294 \ubb3c\uc744 \ub9c8\uc2dc\ub294 \uc790\ub294 \ubd88\ub85c\uc7a5\uc0dd\ud560 \uac83\uc774\ub2c8 \uc0ac\ub78c\ub4e4\uc774 \ub098\ub97c \ub124\uac00 \uc788\ub294 \uc131\uc2a4\ub7ec\uc6b4 \uc0b0\uc73c\ub85c \uc778\ub3c4\ud558\ub3c4\ub85d \ud560 \uc9c0\uc5b4\ub2e4. \uc0ac\ub9c9\uc744 \uac00\ub85c\uc9c0\ub974\uace0 \uc0b0\uc744 \ub118\uc73c\uba74 \ucd08\uc2b9\ub2ec \uacc4\uace1\uc774 \ub098\uc624\ub294\ub370...",
+        "quotee": "\uc778\ub514\uc544\ub098 \uc874\uc2a4",
+        "art": "Images/wonderconceptpetra.png",
+        "sound": null
+    },
+    {
+        "id": 15,
+        "name": "\ubcd1\ub9c8\uc6a9",
+        "type": "wonder",
+        "quote": "\ubcd1\uc0ac\ub97c \uc790\uc2dd\ucc98\ub7fc \ubd80\ub974\uba74 \uc5b4\ub514\ub4e0 \ub530\ub97c \uac83\uc774\ub2e4. \ubcd1\uc0ac\ub97c \uc0ac\ub791\ud558\ub294 \uc790\uc2dd \ub300\ud558\ub4ef \ud558\uba74 \ubaa9\uc228\uc744 \ubc14\uccd0 \ucda9\uc131\ud560 \uac83\uc774\ub2e4.",
+        "quotee": "\uc190\uc790",
+        "art": "Images/wonderconceptterracottaarmy.png",
+        "sound": null
+    },
+    {
+        "id": 16,
+        "name": "\uc559\ucf54\ub974\uc640\ud2b8",
+        "type": "wonder",
+        "quote": "\uc138\uc0c1\uc5d0 \ub610 \uc774\ub7f0 \uac74\ubb3c\uc740 \uc5c6\uc744 \uac83\uc774\ub2e4. \ud0d1\uc774 \uc788\uace0 \uc7a5\uc2dd\uc774 \uc788\uc73c\uba70 \uc778\uac04\uc758 \uc7ac\uc8fc\ub85c \uc0dd\uac01\ud560 \uc218 \uc788\ub294 \uae30\uad50\ub780 \uae30\uad50\ub294 \ub2e4 \uc788\ub2e4.",
+        "quotee": "\uc548\ud1a0\ub2c8\uc624 \ub370 \ub9c9\ub2ec\ub808\ub098",
+        "art": "Images/wonderconceptangkorwat.png",
+        "sound": null
+    },
+    {
+        "id": 17,
+        "name": "\ubcf4\ub85c\ubd80\ub450\ub974 \uc0ac\uc6d0",
+        "type": "wonder",
+        "quote": "\uc138\uc0c1 \ub9cc\ubb3c\uc758 \uc644\ubcbd\ud568\uc744 \uae68\ub2ec\uc740 \uc0ac\ub78c\uc740 \uace0\uac1c\ub97c \ub4a4\ub85c \uc816\ud788\uace0 \uc6c3\uac8c \ub41c\ub2e4.",
+        "quotee": "\uace0\ud0c0\ub9c8 \ubd80\ub2e4",
+        "art": "Images/wonderconceptborobudur.png",
+        "sound": null
+    },
+    {
+        "id": 18,
+        "name": "\uce58\uccb8 \uc774\uc0ac",
+        "type": "wonder",
+        "quote": "\uce58\uccb8 \uc774\uc0ac\uc5d0 \uce74\ud230\uc774 \uc11c\ub9ac\ub77c. \uc774\uc0ac\uac00 \uadf8\uacf3\uc5d0 \uc815\ucc29\ud558\ub9ac\ub77c. \ucf00\uc0b4\uc774 \uc624\ub9ac\ub77c, \ud478\ub978 \uc0c8\uac00 \uc624\ub9ac\ub77c. \uc544 \uce78\ud14c\ub0a0\uc774 \uc624\ub9ac\ub77c. \uc774\ub294 \uc2e0\uc758 \ub9d0\uc500\uc774\ub77c. \uc774\uc0ac\uac00 \uc624\ub9ac\ub77c.",
+        "quotee": "\uce60\ub78c \ubc1c\ub78c\uc758 \uc11c",
+        "art": "Images/wonderconceptchichenitza.png",
+        "sound": null
+    },
+    {
+        "id": 19,
+        "name": "\uc820\ub124 \ubaa8\uc2a4\ud06c",
+        "type": "wonder",
+        "quote": "\ubb34\ud55c\uc774\ub77c\ub294 \uc7a5\uc5c4\ud55c \uac1c\ub150 \uc55e\uc5d0\uc11c \ubcc0\ub3d9\uc774 \uc2ec\ud55c \uc2dc\uac04\uc774\ub77c\ub294 \uac1c\ub150\uc740 \uc791\uc544\uc9c8 \uc218\ubc16\uc5d0 \uc5c6\ub2e4.",
+        "quotee": "\ud1a0\ub9c8\uc2a4 \ucc4c\uba38\uc2a4",
+        "art": "Images/wonderconceptdjennie.png",
+        "sound": null
+    },
+    {
+        "id": 20,
+        "name": "\uc131 \uc18c\ud53c\uc544 \ub300\uc131\ub2f9",
+        "type": "wonder",
+        "quote": "(\uc131 \uc18c\ud53c\uc544 \ub300\uc131\ub2f9\uc740) \ud558\ub298\uc5d0 \ub2ff\uc744 \ub9cc\ud07c \ub192\uc774 \uc19f\uc544, \ub9c8\uce58 \ub2e4\ub978 \uac74\ubb3c\ub4e4\uc758 \ubcf5\ud310\uc5d0\uc11c \ubc14\ub85c \uc19f\uc544\ub09c \ub4ef \ub192\uc740 \uacf3\uc5d0 \uc11c\uc11c \ub3c4\uc2dc\ub97c \ub0b4\ub824\ub2e4\ubcf4\uba70, \ub3c4\uc2dc\uc758 \uc77c\ubd80\ub85c\uc11c \ub3c4\uc2dc\ub97c \uc7a5\uc2dd\ud558\ub294 \ud55c\ud3b8\uc73c\ub85c \uadf8 \uc790\uccb4\uc758 \uc544\ub984\ub2e4\uc6c0\uc73c\ub85c \ucc2c\uc5f0\ud788 \ube5b\ub098\uace0 \uc788\ub2e4.",
+        "quotee": "\ud504\ub85c\ucf54\ud53c\uc624\uc2a4, \uac74\ubb3c\ub860",
+        "art": "Images/wonderconcepthagiasophia.png",
+        "sound": null
+    },
+    {
+        "id": 21,
+        "name": "\ub9c8\ucd94\ud53d\ucd94",
+        "type": "wonder",
+        "quote": "\uc789\uce74 \ub545\uc758 \uc815\uc218 \ub9c8\ucd94\ud53d\ucd94\uc758 \ub4e4\ucb49\ub0a0\ucb49\ud55c \ubcbc\ub791 \uc704\uc5d0 \uc6b0\ub69d \uc120 \ud654\uac15\uc554 \ub3c4\uc2dc\uc758 \ub0ad\ub9cc\ubcf4\ub2e4 \ub354\ud55c \ub0ad\ub9cc\uc740 \uc798 \uc5c6\uc744 \uac83\uc774\ub2e4.",
+        "quotee": "\ud558\uc774\ub78c \ube59\uc5c4",
+        "art": "Images/wonderconceptmachupicchu.png",
+        "sound": null
+    },
+    {
+        "id": 22,
+        "name": "\ub178\ud2b8\ub974\ub2f4",
+        "type": "wonder",
+        "quote": "\uac74\ucd95\uc740 \ud56d\uc0c1 \uc778\ub958\uc758 \ub6f0\uc5b4\ub09c \ubc1c\uc0c1\uc744 \uae30\ub85d\uc73c\ub85c \ub0a8\uacbc\ub2e4. \uc885\uad50\uc801 \uc0c1\uc9d5 \ud558\ub098\ud558\ub098\uac00, \uadf8\ubfd0 \uc544\ub2c8\ub77c \uc778\uac04\uc758 \uc0dd\uac01 \ud558\ub098\ud558\ub098\uac00 (\uac74\ucd95\uc774\ub77c\ub294) \uadf8 \ubc29\ub300\ud55c \ucc45\uc758 \ud55c \ud398\uc774\uc9c0\ub97c \ucc28\uc9c0\ud558\uace0 \uc788\ub2e4.",
+        "quotee": "\ube45\ud1a0\ub974 \uc704\uace0",
+        "art": "Images/wonderconceptnotredame.png",
+        "sound": null
+    },
+    {
+        "id": 23,
+        "name": "\uc790\uae08\uc131",
+        "type": "wonder",
+        "quote": "\uc6b0\ub9ac \ub300\ubd80\ubd84\uc740 \ub9c8\uc74c \uba39\uae30\uc5d0 \ub530\ub77c \uc138\uc0c1\uc744 \uad81\uad90\ub85c \ub9cc\ub4e4 \uc218\ub3c4 \uc788\uace0 \uac10\uc625\uc73c\ub85c \ub9cc\ub4e4 \uc218\ub3c4 \uc788\ub2e4.",
+        "quotee": "\uc874 \ub7ec\ubc85",
+        "art": "Images/wonderconceptforbiddenpalace.png",
+        "sound": null
+    },
+    {
+        "id": 24,
+        "name": "\uae00\ub85c\ube0c \uadf9\uc7a5",
+        "type": "wonder",
+        "quote": "\uc5f0\uadf9\uc740 \ubc30\uc6b0\uc640 \uac70\ub798\ud558\ub294 \uac83",
+        "quotee": "\uae00\ub85c\ube0c \uadf9\uc7a5 \uc815\ubb38\uc5d0 \uc0c8\uaca8\uc9c4 \ub77c\ud2f4\uc5b4 \ubb38\uad6c",
+        "art": "Images/wonderconceptglobe.png",
+        "sound": null
+    },
+    {
+        "id": 25,
+        "name": "\ud788\uba54\uc9c0 \uc131",
+        "type": "wonder",
+        "quote": "\ubb34\uc0ac\ub3c4\ub294 \uc8fd\uc74c\uc744 \ub9c8\uc8fc\ud588\uc744 \ub54c \uc2e4\ud604\ub41c\ub2e4. \uc989, \uc0b6\uacfc \uc8fd\uc74c\uc758 \uae30\ub85c\uc5d0\uc11c \uc8fd\uc74c\uc744 \ud0dd\ud55c\ub2e4\ub294 \ub73b\uc774\ub2e4. \ub2e4\ub978 \uc0dd\uac01\uc758 \uc5ec\uc9c0\ub294 \uc5c6\ub2e4.",
+        "quotee": "\uc57c\ub9c8\ubaa8\ud1a0 \uce20\ub124\ubaa8\ud1a0",
+        "art": "Images/wonderconcepthimejicastle.png",
+        "sound": null
+    },
+    {
+        "id": 26,
+        "name": "\ud53c\uc0ac\uc758 \ud0d1",
+        "type": "wonder",
+        "quote": "\uc544\uc8fc \uc624\ub798\ub41c \uac74\ubb3c\uc774\ub2c8\uae4c, \ub108\ubb34 \uc138\uac8c \uc190\ubf09 \uce58\uc9c0 \ub9c8\uc2ed\uc2dc\uc624.",
+        "quotee": "\uc874 \uc624\uc2a4\ubcf8",
+        "art": "Images/wonderconceptleaningtower.png",
+        "sound": null
+    },
+    {
+        "id": 27,
+        "name": "\ub300\ubcf4\uc740\uc0ac",
+        "type": "wonder",
+        "quote": "\ub9cc\uc0ac\ub294 \uc9c0\ub098\uace0 \ub098\uc11c \ub3cc\uc544\ubcf4\uba74 \ub354 \uc88b\uc544\ubcf4\uc774\uba70, \ubc14\ub85c \uadf8 \ub2e4\uac00\uac08 \uc218 \uc5c6\ub294 \uacfc\uac70\uc758 \ud0d1\uc73c\ub85c\ubd80\ud130 \ub3d9\uacbd\uc740 \ubab8\uc744 \ub0b4\ubc00\uc5b4 \uc6b0\ub9ac\ub97c \ubd80\ub978\ub2e4.",
+        "quotee": "\uc81c\uc784\uc2a4 \ub7ec\uc140 \ub85c\uc6f0",
+        "art": "Images/wonderconceptporcelaintower.png",
+        "sound": null
+    },
+    {
+        "id": 28,
+        "name": "\ubd89\uc740 \uc694\uc0c8",
+        "type": "wonder",
+        "quote": "\ubb54\uac00\ub97c \uc9c0\uc744 \ub54c\ub294 \uc601\uc6d0\ud788 \ub0a8\uae38 \uc0dd\uac01\uc73c\ub85c \uc9c0\uc5b4\uc57c \ud55c\ub2e4.",
+        "quotee": "\uc874 \ub7ec\uc2a4\ud0a8",
+        "art": "Images/wonderconceptredfort.png",
+        "sound": null
+    },
+    {
+        "id": 29,
+        "name": "\uc2dc\uc2a4\ud2f0\ub098 \uc131\ub2f9",
+        "type": "wonder",
+        "quote": "\ub098\ub294 \uc2e0\uc758 \uacbd\uc774\ub85c\uc6b4 \ube5b \uc18d\uc5d0\uc11c \uc0b4\uba70 \uc0ac\ub791\ud55c\ub2e4.",
+        "quotee": "\ubbf8\ucf08\ub780\uc824\ub85c \ubd80\uc624\ub098\ub85c\ud2f0",
+        "art": "Images/wonderconceptsistinechapel.png",
+        "sound": null
+    },
+    {
+        "id": 30,
+        "name": "\ud0c0\uc9c0\ub9c8\ud560",
+        "type": "wonder",
+        "quote": "\ud0c0\uc9c0\ub9c8\ud560\uc740, \uc2dc\uac04\uc758 \ubea8\uc5d0 \ud750\ub974\ub294 \ub208\ubb3c \ud55c \ubc29\uc6b8\uacfc\ub3c4 \uac19\uc774 \uac15\ub451 \uc704\ub85c \uc19f\uc544\uc788\ub2e4.",
+        "quotee": "\ub77c\ube48\ub4dc\ub77c\ub098\ud2b8 \ud0c0\uace0\ub974",
+        "art": "Images/wonderconcepttajmahal.png",
+        "sound": null
+    },
+    {
+        "id": 31,
+        "name": "\uc6b0\ud53c\uce58",
+        "type": "wonder",
+        "quote": "\ud654\uac00\ub294 \ub2e8\uc21c\ud55c \uad00\ucc30\uc790\uac00 \uc544\ub2c8\ub2e4. \uc790\uc2e0\uc758 \ube44\uc804\uc744 \ud654\ud3ed\uc5d0 \ub2f4\uc744 \uc218 \uc788\uc5b4\uc57c \uc9c4\uc815\ud55c \uc608\uc220\uac00\ub77c \ud560 \uc218 \uc788\ub2e4.",
+        "quotee": "\ub9c8\ub974\uc140 \ube60\uaed8",
+        "art": "Images/wonderconceptuffizi.png",
+        "sound": null
+    },
+    {
+        "id": 32,
+        "name": "\ube45 \ubca4",
+        "type": "wonder",
+        "quote": "\uc704\ub300\ud55c \uc5c5\uc801\uc744 \uc774\ub8e8\ub824\uba74 \ub450 \uac00\uc9c0\uac00 \ud544\uc694\ud558\ub2e4. \ud558\ub098\ub294 \uacc4\ud68d\uc774\uace0, \ud558\ub098\ub294 \uc801\ub2f9\ud788 \ube60\ub4ef\ud55c \uc2dc\uac04\uc774\ub2e4.",
+        "quotee": "\ub808\ub108\ub4dc \ubc88\uc2a4\ud0c0\uc778",
+        "art": "Images/wonderconceptbigben.png",
+        "sound": null
+    },
+    {
+        "id": 33,
+        "name": "\ube0c\ub780\ub374\ubd80\ub974\ud06c \ubb38",
+        "type": "wonder",
+        "quote": "\ucc3d\ubc31\ud55c \uc8fd\uc74c\uc740 \uac00\ub09c\ud55c \uc790\uc758 \ubb38\uacfc \uc655\uc758 \uad81\uc804\uc744 \ub611\uac19\uc774 \ub450\ub4dc\ub9b0\ub2e4.",
+        "quotee": "\ud638\ub77c\ud2f0\uc6b0\uc2a4",
+        "art": "Images/wonderconceptbrandenburg.png",
+        "sound": null
+    },
+    {
+        "id": 34,
+        "name": "\ub8e8\ube0c\ub974",
+        "type": "wonder",
+        "quote": "\uc9c4\uc2e4\ud55c \uc608\uc220\ud488\uc758 \uc874\uc7ac \uac00\uce58\ub294 \uc9c0\uad6c\uc640 \ud0dc\uc591\uc758 \uc874\uc7ac \uac00\uce58\uc640 \uac19\ub2e4.",
+        "quotee": "\ub784\ud504 \uc648\ub3c4 \uc5d0\uba38\uc2a8",
+        "art": "Images/wonderconceptlouvre.png",
+        "sound": null
+    },
+    {
+        "id": 35,
+        "name": "\ube0c\ub85c\ub4dc\uc6e8\uc774",
+        "type": "wonder",
+        "quote": "\ub274\uc695 \ubb38\ud654\uc758 \uc911\uc2ec\uc778 \ube0c\ub85c\ub4dc\uc6e8\uc774\ub294 \ubb38\ud654\uc758 \ub3d9\ub9e5\uacfc \uac19\ub2e4.",
+        "quotee": "\uc6d4\ud130 \uc708\uccbc",
+        "art": "Images/wonderconceptbroadway.png",
+        "sound": null
+    },
+    {
+        "id": 36,
+        "name": "\uc5d0\ud3a0\ud0d1",
+        "type": "wonder",
+        "quote": "\uc6b0\ub9ac \uc0b6\uc758 \uc720\uc77c\ud55c \ubaa9\uc801\uc740 \uc544\ub984\ub2e4\uc6c0\uc744 \ubc1c\uacac\ud558\ub294 \uac83\uc774\ub2e4. \ub2e4\ub978 \ubaa8\ub4e0 \uac83\uc740 \uc77c\uc885\uc758 \uae30\ub2e4\ub9bc\uc774\ub2e4.",
+        "quotee": "\uce7c\ub9b4 \uc9c0\ube0c\ub780",
+        "art": "Images/wonderconcepteiffeltower.png",
+        "sound": null
+    },
+    {
+        "id": 37,
+        "name": "\ud06c\ub818\ub9b0",
+        "type": "wonder",
+        "quote": "\ubc95\uc774\ub780 \uad70\ub300\uc5d0 \ube7c\uc557\uae30\uc9c0\ub3c4 \uc54a\uace0 \ud64d\uc218\uc5d0 \ud729\uc4f8\ub9ac\uc9c0\ub3c4 \uc54a\ub294 \uc5b8\ub355 \uc704\uc758 \uc694\uc0c8\ub2e4.",
+        "quotee": "\uc120\uc9c0\uc790 \ubb34\ud568\ub9c8\ub4dc",
+        "art": "Images/wonderconceptkremlin.png",
+        "sound": null
+    },
+    {
+        "id": 38,
+        "name": "\ub178\uc774\uc288\ubc18\uc288\ud0c0\uc778 \uc131",
+        "type": "wonder",
+        "quote": "...\uc544\ub984\ub2f5\uace0 \uc131\uc2a4\ub7fd\uace0 \ubc94\uc811\ud560 \uc218 \uc5c6\ub294 \uacf3\uc5d0 \uc788\ub2e4. \uc138\uc0c1\uc744 \uad6c\uc6d0\ud558\uace0 \ucd95\ubcf5\ud558\ub7ec \uc628 \uc2e0\uc131\ud55c \uce5c\uad6c\uc5d0\uac8c \uc5b4\uc6b8\ub9ac\ub294 \uacf3\uc774\ub2e4.",
+        "quotee": "\ub8e8\ub4dc\ube44\ud788 2\uc138",
+        "art": "Images/wonderconceptneuschwanstein.png",
+        "sound": null
+    },
+    {
+        "id": 39,
+        "name": "\ud504\ub85c\ub77c",
+        "type": "wonder",
+        "quote": "(\uc790\uc720\uc758) \uc0c1\uc2e4\uc740 \uc778\uac04\uc774 \uac00\uc7a5 \uc18c\uc911\ud788 \uc5ec\uae30\ub294 \uac00\uce58\uad00\uc774 \ubab0\ub77d\ud588\uc74c\uc744 \ub73b\ud55c\ub2e4. \uc774\ud6c4\ub85c\ub294 \uace0\uc6a9\uc790\uc640 \ud53c\uace0\uc6a9\uc790\uc758 \uc5c4\uaca9\ud55c \uad00\uacc4\uc5d0 \uc5bd\ub9e4\uc5ec \uc0ac\uc18c\ud55c \uc990\uac70\uc6c0\ub9cc\uc744 \ub204\ub9b4 \ubfd0\uc774\ub2e4.",
+        "quotee": "A.N. \ud654\uc774\ud2b8\ud5e4\ub4dc",
+        "art": "Images/wonderconceptprora.png",
+        "sound": null
+    },
+    {
+        "id": 40,
+        "name": "\uc790\uc720\uc758 \uc5ec\uc2e0\uc0c1",
+        "type": "wonder",
+        "quote": "\uace0\ub2e8\ud55c \uc790\uc5ec, \uac00\ub09c\ud55c \uc790\uc5ec, \uc790\uc720\ub85c\uc774 \uc228\uc26c\uace0\uc790 \ud558\ub294 \uad70\uc911\uc774\uc5ec, \ub0b4\uac8c\ub85c \uc624\ub77c.\ub108\ud76c \ub4e4\ub053\ub294 \ud574\ubcc0\uc758 \ucd08\ub77c\ud55c \uc790\uc5ec,\uac08 \uacf3\uc774 \uc5c6\ub294 \uc790\uc5ec, \ud3ed\ud48d\uc5d0 \ud729\uc4f8\ub9b0 \uc790\uc5ec, \ub0b4\uac8c\ub85c \uc624\ub77c.\ub0b4\uac00 \ud669\uae08 \ubb38 \uc606\uc5d0 \ub4f1\ubd88\uc744 \ub192\uc774 \uccd0\ub4e4\ub9ac\ub77c!",
+        "quotee": "\uc5e0\ub9c8 \ub77c\uc790\ub8e8\uc2a4",
+        "art": "Images/wonderconceptstatueliberty.png",
+        "sound": null
+    },
+    {
+        "id": 41,
+        "name": "\ub9ac\uc624\uc758 \uc608\uc218\uc0c1",
+        "type": "wonder",
+        "quote": "\uace0\uc0dd\ud558\uba70 \ubb34\uac70\uc6b4 \uc9d0\uc744 \uc9c4 \ub108\ud76c\ub294 \ubaa8\ub450 \ub098\uc5d0\uac8c \uc624\ub108\ub77c.\n\ub0b4\uac00 \ub108\ud76c\uc5d0\uac8c \uc548\uc2dd\uc744 \uc8fc\uaca0\ub2e4.",
+        "quotee": "\uc131\uacbd, \ub9c8\ud0dc\ubcf5\uc74c 11:28",
+        "art": "Images/wonderconceptchristoredentor.png",
+        "sound": null
+    },
+    {
+        "id": 42,
+        "name": "\uc778\ud130\ub137 \uac80\uc5f4 \uc2dc\uc2a4\ud15c",
+        "type": "wonder",
+        "quote": "\ubcf4\uc548\uc758 \uae30\ubcf8\uc740 \ubd88\uc2e0\uacfc \uacbd\uacc4\uc2ec\uc774\ub2e4.",
+        "quotee": "\ubca4\uc790\ubbfc \ud504\ub7ad\ud074\ub9b0",
+        "art": "Images/wonderconceptgreatfirewall.png",
+        "sound": null
+    },
+    {
+        "id": 43,
+        "name": "\ud39c\ud0c0\uace4",
+        "type": "wonder",
+        "quote": "\ub098\ub294 \uc804\ud22c \uc900\ube44\uc5d0 \uc788\uc5b4\uc11c, \uacc4\ud68d\uc740 \uc544\ubb34 \uc4f8\ubaa8\uac00 \uc5c6\uc9c0\ub9cc \uacc4\ud68d\uc744 \uc138\uc6b0\ub294 \uc77c\uc740 \uaf2d \ud544\uc694\ud558\ub2e4\ub294 \uc0ac\uc2e4\uc744 \ub298 \uae68\ub2eb\uac8c \ub41c\ub2e4.",
+        "quotee": "\ub4dc\uc640\uc774\ud2b8 D. \uc544\uc774\uc820\ud558\uc6cc",
+        "art": "Images/wonderconceptpentagon.png",
+        "sound": null
+    },
+    {
+        "id": 44,
+        "name": "\uc2dc\ub4dc\ub2c8 \uc624\ud398\ub77c \ud558\uc6b0\uc2a4",
+        "type": "wonder",
+        "quote": "\uafc8\uc744 \uc783\uc5b4\ubc84\ub9ac\uba74 \uae38\ub3c4 \uc783\ub294\ub2e4.",
+        "quotee": "\ud638\uc8fc \uc6d0\uc8fc\ubbfc \uc18d\ub2f4",
+        "art": "Images/wonderconceptsydneyoperahouse.png",
+        "sound": null
+    },
+    {
+        "id": 45,
+        "name": "CN \ud0c0\uc6cc",
+        "type": "wonder",
+        "quote": "\ubb3c\ub9ac\ud559\uc5d0\uc11c \ube5b\ubcf4\ub2e4 \ube60\ub978 \ubb3c\uccb4\ub294 \uc5c6\ub2e4. \uadf8\ub7ec\ub098 \ub098\uc05c \uc18c\uc2dd\uc740 \ube5b \ubcf4\ub2e4 \ube60\ub97c \uc218 \uc788\ub2e4. \uc774\ub294 \uc18c\uc2dd\uc774 \ud37c\uc9c0\ub294 \ub370 \ud2b9\ubcc4\ud55c \ubc95\uce59\uc774 \uc801\uc6a9\ub418\uae30 \ub54c\ubb38\uc774\ub2e4.",
+        "quotee": "\ub354\uae00\ub77c\uc2a4 \uc560\ub364\uc2a4",
+        "art": "Images/wonderconceptcntower.png",
+        "sound": null
+    },
+    {
+        "id": 46,
+        "name": "\ud5c8\ube14 \uc6b0\uc8fc \ub9dd\uc6d0\uacbd",
+        "type": "wonder",
+        "quote": "\uc9c4\uc815\ud55c \ubd88\uac00\uc0ac\uc758\ub294 \uc6b0\uc8fc\uc758 \ubc29\ub300\ud55c \ud06c\uae30\uac00 \uc544\ub2c8\ub77c \uc778\uac04\uc774 \uadf8 \ud06c\uae30\ub97c \uce21\uc815\ud588\ub2e4\ub294 \uc0ac\uc2e4\uc774\ub2e4.",
+        "quotee": "\uc544\ub098\ud1a8 \ud504\ub791\uc2a4",
+        "art": "Images/wonderconcepthubble.png",
+        "sound": null
+    },
+    {
+        "id": 47,
+        "name": "\uad6d\uc81c \uc6b0\uc8fc \uc815\uac70\uc7a5",
+        "type": "wonder",
+        "quote": "\uc804 \uc138\uacc4 \uad6d\uac00\uac00 \uacf5\uc720\ud560 \uc6b0\uc8fc \uc815\uac70\uc7a5\uc744 \ud558\ub098 \ub9cc\ub4e4\uc790\ub294 \uc0dd\uac01\uc740 \uc608\ub098 \uc9c0\uae08\uc774\ub098 \ubbf8\uce5c \uc0dd\uac01\uc774\ub2e4. \uc801\uc5b4\ub3c4 \uc218\uc2ed \uac1c\ub294 \ub9cc\ub4e4\uc5b4\uc57c \ud55c\ub2e4.",
+        "quotee": "\ub798\ub9ac \ub9ac\ubca4",
+        "art": "Images/wonderconceptspacestation.png",
+        "sound": null
+    },
+    {
+        "id": 48,
+        "name": "\uad6d\uc81c \uc5f0\ud569",
+        "type": "wonder",
+        "quote": "\uc6b0\ub9ac\ub294 \uc778\ub958 \uc5ed\uc0ac\uc0c1 \uc5b4\ub290 \ub54c\ubcf4\ub2e4\ub3c4 \uc6b4\uba85\uacf5\ub3d9\uccb4\uac00 \ub418\uc5c8\ub2e4. \uadf8 \uc6b4\uba85\uc5d0 \ud568\uaed8 \ub9de\uc11c\uc57c\ub9cc \uc6b4\uba85\uc744 \uc9c0\ubc30\ud560 \uc218 \uc788\ub2e4. \uadf8\ub9ac\uace0 \uadf8\uac83\uc774 \ubc14\ub85c \uad6d\uc81c \uc5f0\ud569\uc758 \uc874\uc7ac \uc774\uc720\ub2e4.",
+        "quotee": "\ucf54\ud53c \uc544\ub09c",
+        "art": "Images/wonderconceptun.png",
+        "sound": null
+    }
+]

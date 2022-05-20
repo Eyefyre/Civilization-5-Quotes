@@ -6,7 +6,7 @@
         "quote": "Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.",
         "quotee": "Joseph Addison",
         "art": "Images/wonderconceptalahambra.png",
-        "sound": "Sounds/English/Alhmabra.mp3"
+        "sound": "Sounds/English/Alhambra.mp3"
     },
     {
         "id": 2,
@@ -76,7 +76,7 @@
         "name": "Great Lighthouse",
         "type": "wonder",
         "quote": "They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.",
-        "quotee": "The Bible, Psalms 107:23",
+        "quotee": "The Bible, Psalms 107:23-24",
         "art": "Images/wonderconceptgreatlighthouse.png",
         "sound": "Sounds/English/TheGreatLighthouse_01.mp3"
     },
@@ -354,7 +354,7 @@
         "id": 40,
         "name": "Statue of Liberty",
         "type": "wonder",
-        "quote": "Give me your tired, your poor,Your huddled masses yearning to breathe free,The wretched refuse of your teeming shore.Send these, the homeless, tempest - tossed to me,I lift my lamp beside the golden door!",
+        "quote": "Give me your tired, your poor,Your huddled masses yearning to breathe free,The wretched refuse of your teeming shore.Send these, the homeless, tempest-tossed to me,I lift my lamp beside the golden door!",
         "quotee": "Emma Lazarus",
         "art": "Images/wonderconceptstatueliberty.png",
         "sound": "Sounds/English/StatueofLiberty.mp3"

@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "Alhambra|l'Alhambra",
+        "type": "wonder",
+        "quote": "La giustizia \u00e8 una fortezza inespugnabile, costruita sulla cresta di una montagna che non pu\u00f2 essere rovesciata dalla violenza dei torrenti n\u00e9 demolita dalla forza degli eserciti.",
+        "quotee": "Joseph Addison",
+        "art": "Images/wonderconceptalahambra.png",
+        "sound": "Sounds/Italian/Alhambra.mp3"
+    },
+    {
+        "id": 2,
+        "name": "Grande Biblioteca|la Grande Biblioteca|una Grande Biblioteca",
+        "type": "wonder",
+        "quote": "Le biblioteche sono come una cappella in cui sono conservate e protette le reliquie dei santi antichi, colme di vera virt\u00f9, e tutto ci\u00f2 che \u00e8 privo di illusione e inganno.",
+        "quotee": "Sir Francis Bacon",
+        "art": "Images/wonderconceptgreatlibrary.png",
+        "sound": "Sounds/Italian/TheGreatLibrary_02.mp3"
+    },
+    {
+        "id": 3,
+        "name": "Mausoleo di Alicarnasso|il Mausoleo di Alicarnasso",
+        "type": "wonder",
+        "quote": "Tutta la terra \u00e8 tomba di uomini eroici; la loro storia non resta solo sulla pietra sopra la loro creta ma si ritrova ovunque, invisibile, intessuta nella vita degli altri.",
+        "quotee": "Pericle",
+        "art": "Images/wondermosuleumhalicarnassus.png",
+        "sound": "Sounds/Italian/MausoleumOfHalicarnassus.mp3"
+    },
+    {
+        "id": 4,
+        "name": "Piramidi|le Piramidi",
+        "type": "wonder",
+        "quote": "Oh, non lasciare che i dolori della morte che piombano su di te entrino nel mio corpo. Io sono il dio Tem, e risiedo nella parte pi\u00f9 importante del cielo, e il potere che mi protegge \u00e8 quello che si accompagna per sempre a tutti gli d\u00e8i.",
+        "quotee": "Il Libro dei Morti",
+        "art": "Images/wonderconceptpyramids.png",
+        "sound": "Sounds/Italian/ThePyramids_01.mp3"
+    },
+    {
+        "id": 5,
+        "name": "Statua di Zeus|la Statua di Zeus",
+        "type": "wonder",
+        "quote": "Cos\u00ec parl\u00f2, il figlio di Crono, e con le nere sopracciglia accenn\u00f2; le chiome immortali del sire si scompigliarono sul capo divino: ne scosse tutto l'Olimpo.",
+        "quotee": "L'Iliade",
+        "art": "Images/wonderconcepttemplezues.png",
+        "sound": "Sounds/Italian/StatueOfZeus.mp3"
+    },
+    {
+        "id": 6,
+        "name": "Stonehenge",
+        "type": "wonder",
+        "quote": "Il tempo sgretola le cose; davanti al suo potere tutto invecchia e viene dimenticato.",
+        "quotee": "Aristotele",
+        "art": "Images/wonderconceptstonehedge.png",
+        "sound": "Sounds/Italian/Stonehenge_01.mp3"
+    },
+    {
+        "id": 7,
+        "name": "Tempio di Artemide|il Tempio di Artemide",
+        "type": "wonder",
+        "quote": "Non \u00e8 tanto con la sua bellezza che la foresta tocca il cuore degli uomini, ma con un'indefinibile sottigliezza, una certa qualit\u00e0 dell'aria, con l'emanazione degli antichi alberi, che cos\u00ec meravigliosamente muta e rinnova uno spirito fiaccato.",
+        "quotee": "Robert Louis Stevenson",
+        "art": "Images/wondertempleartemis.png",
+        "sound": "Sounds/Italian/TempleOfArtemis.mp3"
+    },
+    {
+        "id": 8,
+        "name": "Colosso|il Colosso|un Colosso",
+        "type": "wonder",
+        "quote": "Gi\u00e0, lui cavalca questo stretto mondo ormai come un colosso; e noi, gli omuncoli, passiamo sotto le sue gambe enormi e ci scrutiamo intorno, per ritrovarci tutti quanti siamo come tanti sepolcri senza onore.",
+        "quotee": "William Shakespeare: Giulio Cesare",
+        "art": "Images/wonderconceptcolossus.png",
+        "sound": "Sounds/Italian/TheColossus.mp3"
+    },
+    {
+        "id": 9,
+        "name": "Grande Faro|il Grande Faro|un Grande Faro",
+        "type": "wonder",
+        "quote": "Ecco quelli che scendon nel mare su navi, che trafficano sulle grandi acque; essi veggono le opere dell'Eterno e le sue maraviglie nell'abisso.",
+        "quotee": "Salmi 107:23-24",
+        "art": "Images/wonderconceptgreatlighthouse.png",
+        "sound": "Sounds/Italian/TheGreatLighthouse_01.mp3"
+    },
+    {
+        "id": 10,
+        "name": "Grande Muraglia|la Grande Muraglia|una Grande Muraglia",
+        "type": "wonder",
+        "quote": "L'arte della guerra ci insegna a non affidarci alla possibilit\u00e0 che il nemico... non ci attacchi, ma piuttosto alla certezza di aver reso la nostra posizione inattaccabile.",
+        "quotee": "Sun Tzu",
+        "art": "Images/wonderconceptgreatwall.png",
+        "sound": "Sounds/Italian/TheGreatWall.mp3"
+    },
+    {
+        "id": 11,
+        "name": "Giardini Pensili|i Giardini Pensili",
+        "type": "wonder",
+        "quote": "Penso che se mai un mortale ha sentito la voce di Dio, sar\u00e0 stato in un giardino sul far della sera.",
+        "quotee": "F. Frankfort Moore",
+        "art": "Images/wonderconcepthanginggardens.png",
+        "sound": "Sounds/Italian/TheHangingGardens_01.mp3"
+    },
+    {
+        "id": 12,
+        "name": "Oracolo|l'Oracolo|un Oracolo",
+        "type": "wonder",
+        "quote": "L'antico Oracolo ha detto che sono il pi\u00f9 saggio di tutti i greci. Questo perch\u00e9 io solo, di tutti greci, so di non sapere nulla.",
+        "quotee": "Socrate",
+        "art": "Images/wonderconceptoracle.png",
+        "sound": "Sounds/Italian/TheOracle_01.mp3"
+    },
+    {
+        "id": 13,
+        "name": "Partenone|il Partenone",
+        "type": "wonder",
+        "quote": "La terra indossa orgogliosamente il Partenone come la gemma pi\u00f9 sfavillante.",
+        "quotee": "Ralph Waldo Emerson",
+        "art": "Images/wonderconceptparthenon.png",
+        "sound": "Sounds/Italian/Parthenon.mp3"
+    },
+    {
+        "id": 14,
+        "name": "Petra",
+        "type": "wonder",
+        "quote": "...colui che beve l'acqua che io gli dar\u00f2, dice il Signore, avr\u00e0 dentro di s\u00e9 una sorgente inesauribile dalla quale sgorgher\u00e0 la vita eterna. Lasciate che mi conducano alla tua montagna sacra nel luogo dove dimori, attraverso il deserto e oltre la montagna, nella Gola della Luna Crescente...",
+        "quotee": "Indiana Jones",
+        "art": "Images/wonderconceptpetra.png",
+        "sound": "Sounds/Italian/Petra.mp3"
+    },
+    {
+        "id": 15,
+        "name": "Esercito di terracotta|l'Esercito di terracotta|un Esercito di terracotta",
+        "type": "wonder",
+        "quote": "Trattate i soldati come figli, e vi seguiranno nelle valli pi\u00f9 profonde; considerateli la vostra amata progenie, e resteranno accanto a voi fino alla morte.",
+        "quotee": "Sun Tzu",
+        "art": "Images/wonderconceptterracottaarmy.png",
+        "sound": "Sounds/Italian/TerraCottaArmy.mp3"
+    },
+    {
+        "id": 16,
+        "name": "Angkor Wat|l'Angkor Wat",
+        "type": "wonder",
+        "quote": "Il tempio non ha eguali nel mondo. Ha torri e decorazioni e tutti gli abbellimenti che il genio dell'uomo pu\u00f2 concepire.",
+        "quotee": "Antonio da Magdalena",
+        "art": "Images/wonderconceptangkorwat.png",
+        "sound": "Sounds/Italian/AngkorWat.mp3"
+    },
+    {
+        "id": 17,
+        "name": "Borobudur",
+        "type": "wonder",
+        "quote": "Quando capirai come sono perfette tutte le cose, getterai indietro la testa e rivolgerai una risata al cielo.",
+        "quotee": "Gautama Buddha",
+        "art": "Images/wonderconceptborobudur.png",
+        "sound": "Sounds/Italian/Borobudur.mp3"
+    },
+    {
+        "id": 18,
+        "name": "Chich\u00e9n Itz\u00e1",
+        "type": "wonder",
+        "quote": "Il katun \u00e8 stabilito a Chich\u00e9n Itz\u00e1. L'insediamento degli Itz\u00e1 vi avr\u00e0 luogo. Arriver\u00e0 il quetzal, arriver\u00e0 l'uccello verde. Ah Kantenal arriver\u00e0. \u00c8 la parola di Dio. Gli Itz\u00e1 arriveranno.",
+        "quotee": "I Libri di Chilam Balam",
+        "art": "Images/wonderconceptchichenitza.png",
+        "sound": "Sounds/Italian/ChichenItza.mp3"
+    },
+    {
+        "id": 19,
+        "name": "Grande Moschea di Djenn\u00e9|la Grande Moschea di Djenn\u00e9",
+        "type": "wonder",
+        "quote": "Con la magnificenza dell'eternit\u00e0 di fronte a noi, lasciamo che il tempo, con tutte le sue fluttuazioni, scemi nella sua stessa piccolezza.",
+        "quotee": "Thomas Chalmers",
+        "art": "Images/wonderconceptdjennie.png",
+        "sound": "Sounds/Italian/GreatMosqueOfDjenne.mp3"
+    },
+    {
+        "id": 20,
+        "name": "Santa Sofia",
+        "type": "wonder",
+        "quote": "Perch\u00e9 si erge cos\u00ec alta da toccare il cielo, e come fluttuando sugli altri edifici guarda dall'alto in basso il resto della citt\u00e0, abbellendola, perch\u00e9 fa parte di essa, ma gloriandosi della propria bellezza.",
+        "quotee": "Procopio, Sugli edifici",
+        "art": "Images/wonderconcepthagiasophia.png",
+        "sound": "Sounds/Italian/TheHagiaSophia.mp3"
+    },
+    {
+        "id": 21,
+        "name": "Machu Picchu",
+        "type": "wonder",
+        "quote": "Pochi racconti fantastici possono sorpassare quello della cittadella di granito sospesa in cima ai precipizi, Machu Picchu, la corona delle terre degli Inca.",
+        "quotee": "Hiram Bingham",
+        "art": "Images/wonderconceptmachupicchu.png",
+        "sound": "Sounds/Italian/MachuPicchu.mp3"
+    },
+    {
+        "id": 22,
+        "name": "Notre Dame",
+        "type": "wonder",
+        "quote": "L'architettura ha registrato le pi\u00f9 grandi idee della razza umana. Non solo ogni simbolo religioso, ma ogni pensiero umano ha la sua pagina in quel vasto libro.",
+        "quotee": "Victor Hugo",
+        "art": "Images/wonderconceptnotredame.png",
+        "sound": "Sounds/Italian/NotreDame.mp3"
+    },
+    {
+        "id": 23,
+        "name": "Citt\u00e0 Proibita|la Citt\u00e0 Proibita|una Citt\u00e0 Proibita",
+        "type": "wonder",
+        "quote": "La maggior parte di noi pu\u00f2, a sua volont\u00e0, fare di questo mondo un palazzo o una prigione.",
+        "quotee": "John Lubbock",
+        "art": "Images/wonderconceptforbiddenpalace.png",
+        "sound": "Sounds/Italian/TheForbiddenPalace.mp3"
+    },
+    {
+        "id": 24,
+        "name": "Globe Theatre|il Globe Theatre|un Globe Theatre",
+        "type": "wonder",
+        "quote": "Totus mundus agit histrionem (Il mondo \u00e8 tutto un palcoscenico)",
+        "quotee": "Iscrizione posta sopra l'ingresso principale del Globe Theatre",
+        "art": "Images/wonderconceptglobe.png",
+        "sound": "Sounds/Italian/GlobeTheatre.mp3"
+    },
+    {
+        "id": 25,
+        "name": "Castello di Himeji|il Castello di Himeji",
+        "type": "wonder",
+        "quote": "Il Bushido si realizza in presenza della morte. Significa, ogni volta che c'\u00e8 una scelta tra la vita e la morte, scegliere la seconda. Non c'\u00e8 alcun altro ragionamento.",
+        "quotee": "Yamamoto Tsunetomo",
+        "art": "Images/wonderconcepthimejicastle.png",
+        "sound": "Sounds/Italian/HimejiCastle.mp3"
+    },
+    {
+        "id": 26,
+        "name": "Torre di Pisa|la Torre di Pisa",
+        "type": "wonder",
+        "quote": "Non applaudite troppo forte - \u00e8 un edificio molto vecchio.",
+        "quotee": "John Osborne",
+        "art": "Images/wonderconceptleaningtower.png",
+        "sound": "Sounds/Italian/LeaningTower.mp3"
+    },
+    {
+        "id": 27,
+        "name": "Torre di porcellana|la Torre di porcellana",
+        "type": "wonder",
+        "quote": "Le cose sembrano sempre pi\u00f9 belle quando ci voltiamo indietro per guardarle, ed \u00e8 dall'inaccessibile torre del passato che la nostalgia si protende e chiama.",
+        "quotee": "James Russell Lowell",
+        "art": "Images/wonderconceptporcelaintower.png",
+        "sound": "Sounds/Italian/ThePorcelainTower.mp3"
+    },
+    {
+        "id": 28,
+        "name": "Forte Rosso|il Forte Rosso|un Forte Rosso",
+        "type": "wonder",
+        "quote": "Quando costruiamo, pensiamo che dobbiamo costruire per sempre.",
+        "quotee": "John Ruskin",
+        "art": "Images/wonderconceptredfort.png",
+        "sound": "Sounds/Italian/RedFort.mp3"
+    },
+    {
+        "id": 29,
+        "name": "Cappella Sistina|la Cappella Sistina",
+        "type": "wonder",
+        "quote": "Vivo e amo sotto la peculiare luce di Dio.",
+        "quotee": "Michelangelo Buonarroti",
+        "art": "Images/wonderconceptsistinechapel.png",
+        "sound": "Sounds/Italian/SistineChapel.mp3"
+    },
+    {
+        "id": 30,
+        "name": "Taj Mahal|il Taj Mahal",
+        "type": "wonder",
+        "quote": "Il Taj Mahal sorge sulle rive del fiume come una lacrima solitaria sospesa sulla guancia del tempo.",
+        "quotee": "Rabindranath Tagore",
+        "art": "Images/wonderconcepttajmahal.png",
+        "sound": "Sounds/Italian/TajMahal.mp3"
+    },
+    {
+        "id": 31,
+        "name": "Uffizi|gli Uffizi",
+        "type": "wonder",
+        "quote": "Il pittore non \u00e8 semplicemente una persona che guarda e vede le cose. L'artista \u00e8 soprattutto qualcuno che espone una visione personale rendendola visibile.",
+        "quotee": "Marcel Paquet",
+        "art": "Images/wonderconceptuffizi.png",
+        "sound": "Sounds/Italian/Uffizi.mp3"
+    },
+    {
+        "id": 32,
+        "name": "Big Ben|il Big Ben",
+        "type": "wonder",
+        "quote": "Per ottenere grandi risultati servono due cose: un piano e un sacco di tempo.",
+        "quotee": "Leonard Bernstein",
+        "art": "Images/wonderconceptbigben.png",
+        "sound": "Sounds/Italian/BigBen.mp3"
+    },
+    {
+        "id": 33,
+        "name": "Porta di Brandeburgo|la Porta di Brandeburgo",
+        "type": "wonder",
+        "quote": "La pallida morte batte ugualmente alla porta del povero e al palazzo del re.",
+        "quotee": "Orazio",
+        "art": "Images/wonderconceptbrandenburg.png",
+        "sound": "Sounds/Italian/BrandenburgGate.mp3"
+    },
+    {
+        "id": 34,
+        "name": "Louvre|il Louvre",
+        "type": "wonder",
+        "quote": "Ogni opera d'arte genuina ha tanta ragione d'esistere quanto la terra e il sole.",
+        "quotee": "Ralph Waldo Emerson",
+        "art": "Images/wonderconceptlouvre.png",
+        "sound": "Sounds/Italian/TheLouvre.mp3"
+    },
+    {
+        "id": 35,
+        "name": "Broadway",
+        "type": "wonder",
+        "quote": "Broadway \u00e8 l'arteria principale della vita culturale di New York... l'arteria indurita.",
+        "quotee": "Walter Winchell",
+        "art": "Images/wonderconceptbroadway.png",
+        "sound": "Sounds/Italian/Broadway.mp3"
+    },
+    {
+        "id": 36,
+        "name": "Torre Eiffel|la Torre Eiffel",
+        "type": "wonder",
+        "quote": "Chi pu\u00f2 pensare che, siccome siamo ingegneri, la bellezza non ci preoccupi, o che non cerchiamo di costruire strutture belle oltre che solide e durature?",
+        "quotee": "Gustave Alexandre Eiffel",
+        "art": "Images/wonderconcepteiffeltower.png",
+        "sound": "Sounds/Italian/EiffelTower_01.mp3"
+    },
+    {
+        "id": 37,
+        "name": "Cremlino|il Cremlino",
+        "type": "wonder",
+        "quote": "La Legge \u00e8 una fortezza su una collina che gli eserciti non possono catturare e le inondazioni non possono spazzare via.",
+        "quotee": "Il profeta Maometto",
+        "art": "Images/wonderconceptkremlin.png",
+        "sound": "Sounds/Italian/TheKremlin.mp3"
+    },
+    {
+        "id": 38,
+        "name": "Castello di Neuschwanstein|il Castello di Neuschwanstein",
+        "type": "wonder",
+        "quote": "...la posizione \u00e8 una delle pi\u00f9 belle che si possano trovare, sacra e inaccessibile, degno tempio per l'amico divino che ha portato salvezza e vera benedizione a tutto il mondo.",
+        "quotee": "Re Ludovico II di Baviera",
+        "art": "Images/wonderconceptneuschwanstein.png",
+        "sound": "Sounds/Italian/Neuschwanstein.mp3"
+    },
+    {
+        "id": 39,
+        "name": "Seebad Prora",
+        "type": "wonder",
+        "quote": "Questa perdita (di libert\u00e0) fa s\u00ec che dalla vita umana scompaiano valori infinitamente preziosi. Tutto quello che resta sono ferree condizioni di lavoro e frivoli divertimenti per il tempo libero.",
+        "quotee": "A.N. Whitehead",
+        "art": "Images/wonderconceptprora.png",
+        "sound": "Sounds/Italian/Prora.mp3"
+    },
+    {
+        "id": 40,
+        "name": "Statua della Libert\u00e0|la Statua della Libert\u00e0",
+        "type": "wonder",
+        "quote": "Datemi coloro che sono esausti, i poveri,Le folle accalcate che bramano di respirare libere,I miseri rifiuti delle vostre coste brulicanti.Mandatemi chi non ha casa, squassato dalle tempeste,Sollevo la fiaccola accanto alla porta d'oro!",
+        "quotee": "Emma Lazarus",
+        "art": "Images/wonderconceptstatueliberty.png",
+        "sound": "Sounds/Italian/StatueofLiberty.mp3"
+    },
+    {
+        "id": 41,
+        "name": "Cristo Redentore|il Cristo Redentore",
+        "type": "wonder",
+        "quote": "Venite a me, voi tutti che siete affaticati e oppressi, e io vi ristorer\u00f2.",
+        "quotee": "Matteo 11:28",
+        "art": "Images/wonderconceptchristoredentor.png",
+        "sound": "Sounds/Italian/ChristoRedentor_01.mp3"
+    },
+    {
+        "id": 42,
+        "name": "Grande Firewall|il Grande Firewall|un Grande Firewall",
+        "type": "wonder",
+        "quote": "Diffidenza e cautela sono i genitori della sicurezza.",
+        "quotee": "Benjamin Franklin",
+        "art": "Images/wonderconceptgreatfirewall.png",
+        "sound": "Sounds/Italian/GreatFirewall.mp3"
+    },
+    {
+        "id": 43,
+        "name": "Pentagono|il Pentagono",
+        "type": "wonder",
+        "quote": "Preparandomi alla battaglia ho sempre constatato che i piani sono inutili, ma la pianificazione \u00e8 indispensabile.",
+        "quotee": "Dwight D. Eisenhower",
+        "art": "Images/wonderconceptpentagon.png",
+        "sound": "Sounds/Italian/Pentagon_01.mp3"
+    },
+    {
+        "id": 44,
+        "name": "Teatro dell'opera di Sydney|il Teatro dell'opera di Sydney",
+        "type": "wonder",
+        "quote": "Quelli che perdono i sogni sono perduti.",
+        "quotee": "Massima degli aborigeni australiani",
+        "art": "Images/wonderconceptsydneyoperahouse.png",
+        "sound": "Sounds/Italian/SydneyOperaHouse.mp3"
+    },
+    {
+        "id": 45,
+        "name": "CN Tower|la CN Tower",
+        "type": "wonder",
+        "quote": "Niente viaggia pi\u00f9 veloce della luce, con la possibile eccezione delle brutte notizie, che seguono delle leggi speciali.",
+        "quotee": "Douglas Adams",
+        "art": "Images/wonderconceptcntower.png",
+        "sound": "Sounds/Italian/CNTower.mp3"
+    },
+    {
+        "id": 46,
+        "name": "Telescopio spaziale Hubble|il Telescopio spaziale Hubble",
+        "type": "wonder",
+        "quote": "La meraviglia non sta nella vastit\u00e0 del campo di stelle, ma nel fatto che l'uomo lo abbia misurato.",
+        "quotee": "Anatole France",
+        "art": "Images/wonderconcepthubble.png",
+        "sound": "Sounds/Italian/HubbleSpaceTelescope.mp3"
+    },
+    {
+        "id": 47,
+        "name": "Stazione Spaziale Internazionale|la Stazione Spaziale Internazionale|una Stazione Spaziale Internazionale",
+        "type": "wonder",
+        "quote": "Costruire una stazione spaziale per tutti era e rimane una follia; avremmo dovuto costruirne una dozzina.",
+        "quotee": "Larry Niven",
+        "art": "Images/wonderconceptspacestation.png",
+        "sound": "Sounds/Italian/InternationalSpaceStation.mp3"
+    },
+    {
+        "id": 48,
+        "name": "Nazioni Unite|le Nazioni Unite",
+        "type": "wonder",
+        "quote": "Pi\u00f9 di quanto sia mai accaduto nella storia mondiale, condividiamo un destino comune. Possiamo dominarlo solo se lo affrontiamo insieme. Ed \u00e8 per questo che abbiamo le Nazioni Unite.",
+        "quotee": "Kofi Annan",
+        "art": "Images/wonderconceptun.png",
+        "sound": "Sounds/Italian/UnitedNations.mp3"
+    }
+]

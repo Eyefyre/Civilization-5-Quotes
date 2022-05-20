@@ -21,5 +21,9 @@ button{
     background-color: transparent;
     border: none;
 }
-
-
+.dropdown-item:hover{
+    background-color: #eeca44;
+}
+.dropdown-menu{
+    background-color: #ffffff;
+}
