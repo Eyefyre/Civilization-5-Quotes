@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<body onload="loadLanguageData()">
+<body onload="loadLanguageData('English')">
     <div id="background-image">
         <div id="black-faded-background">
             <div id="content" class="container-fluid">
@@ -34,20 +34,19 @@
                                         <i class="fas fa-globe"></i>
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="LanguageButton">
-                                        <li><a id="EnglishButton" class="dropdown-item" onclick="loadJSONData('English')" href="#">English</a></li>
-                                        <li><a id="GermanButton"class="dropdown-item" onclick="loadJSONData('German')" href="#">Deutsch</a></li>
-                                        <li><a id="SpanishButton"class="dropdown-item" onclick="loadJSONData('Spanish')" href="#">Español</a></li>
-                                        <li><a id="FrenchButton"class="dropdown-item" onclick="loadJSONData('French')" href="#">Français</a></li>
-                                        <li><a id="ItalianButton"class="dropdown-item" onclick="loadJSONData('Italian')" href="#">Italiano</a></li>
-                                        <li><a id="JapaneseButton"class="dropdown-item" onclick="loadJSONData('Japanese')" href="#">日本</a></li>
-                                        <li><a id="KoreanButton"class="dropdown-item" onclick="loadJSONData('Korean')" href="#">한국인</a></li>
-                                        <li><a id="ChineseButton"class="dropdown-item" onclick="loadJSONData('Chinese')" href="#">漢語</a></li>
-                                        <li><a id="PolishButton"class="dropdown-item" onclick="loadJSONData('Polish')" href="#">Polski</a></li>
-                                        <li><a id="RussianButton"class="dropdown-item" onclick="loadJSONData('Russian')" href="#">Русский</a></li>
+                                        <li><a id="EnglishButton" class="dropdown-item" onclick="loadLanguageData('English')" href="#">English</a></li>
+                                        <li><a id="GermanButton"class="dropdown-item" onclick="loadLanguageData('German')" href="#">Deutsch</a></li>
+                                        <li><a id="SpanishButton"class="dropdown-item" onclick="loadLanguageData('Spanish')" href="#">Español</a></li>
+                                        <li><a id="FrenchButton"class="dropdown-item" onclick="loadLanguageData('French')" href="#">Français</a></li>
+                                        <li><a id="ItalianButton"class="dropdown-item" onclick="loadLanguageData('Italian')" href="#">Italiano</a></li>
+                                        <li><a id="JapaneseButton"class="dropdown-item" onclick="loadLanguageData('Japanese')" href="#">日本</a></li>
+                                        <li><a id="KoreanButton"class="dropdown-item" onclick="loadLanguageData('Korean')" href="#">한국인</a></li>
+                                        <li><a id="ChineseButton"class="dropdown-item" onclick="loadLanguageData('Chinese')" href="#">漢語</a></li>
+                                        <li><a id="PolishButton"class="dropdown-item" onclick="loadLanguageData('Polish')" href="#">Polski</a></li>
+                                        <li><a id="RussianButton"class="dropdown-item" onclick="loadLanguageData('Russian')" href="#">Русский</a></li>
                                     </ul>
                                 </li>
                                 <li class="snd nav-link">
-                                    <!--fas fa-pause-->
                                     <button id="sound-button" onclick="playPause()">
                                         <audio id='soundd' onended="audioEnded()"></audio>
                                         <i id="soundB" class="fas fa-play"></i>
@@ -60,7 +59,6 @@
                                 </li>
                             </ul>
                         </div>
-
                     </nav>
                 </div>
                 <div class="row h-25 align-items-center justify-content-center">
@@ -80,12 +78,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="row">
-                    <div class="col">
-                        <audio id="audio" autoplay></audio>
-                        <button id="sound-button" class="display-4"></button>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>

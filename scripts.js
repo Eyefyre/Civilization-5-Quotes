@@ -1,93 +1,37 @@
 var jsonData = null;
-var currentLanguage = null;
-var englishData = null;
-var germanData = null;
-var frenchData = null;
-var italianData = null;
-var polishData = null;
-var russianData = null;
-var koreanData = null;
-var chineseData = null;
-var japaneseData = null;
-var spanishData = null;
+var Data = null;
 
-async function loadLanguageData() {
-    var json = await fetch("JSONData/QuotesEnglish.json");
-    englishData = await json.json();
-    json = await fetch("JSONData/QuotesGerman.json");
-    germanData = await json.json();
-    json = await fetch("JSONData/QuotesFrench.json");
-    frenchData = await json.json();
-    json = await fetch("JSONData/QuotesItalian.json");
-    italianData = await json.json();
-    json = await fetch("JSONData/QuotesPolish.json");
-    polishData = await json.json();
-    json = await fetch("JSONData/QuotesRussian.json");
-    russianData = await json.json();
-    json = await fetch("JSONData/QuotesKorean.json");
-    koreanData = await json.json();
-    json = await fetch("JSONData/QuotesChinese.json");
-    chineseData = await json.json();
-    json = await fetch("JSONData/QuotesJapanese.json");
-    japaneseData = await json.json();
-    json = await fetch("JSONData/QuotesSpanish.json");
-    spanishData = await json.json();
-    loadJSONData("English")
+
+async function loadLanguageData(lang) {
+    var json = await fetch("https://eyefyre.github.io/Civilization-5-Quotes/JSONData/Quotes" + lang + ".json");
+    jsonData = await json.json();
+    populateWonderSelection()
 }
-function loadJSONData(language) {
-    currentLanguage = language
-    switch (language) {
-        case "English":
-            jsonData = englishData
-            break;
-        case "German":
-            jsonData = germanData
-            break;
-        case "French":
-            jsonData = frenchData
-            break;
-        case "Italian":
-            jsonData = italianData
-            break;
-        case "Spanish":
-            jsonData = spanishData
-            break;
-        case "Polish":
-            jsonData = polishData
-            break;
-        case "Russian":
-            jsonData = russianData
-            break;
-        case "Korean":
-            jsonData = koreanData
-            break;
-        case "Japanese":
-            jsonData = japaneseData
-            break;
-        case "Chinese":
-            jsonData = chineseData
-            break;
-        default:
-            jsonData = englishData
+
+function populateWonderSelection() {
+    for (var i = 0; i < jsonData.length; i++) {
+        var n = jsonData[i]["name"].split("|")[0]
+        $("#wonderrow").append("<div class='col'>" + n + "</div>")
     }
-    displayQuote();
+    displayQuote()
 }
+
 
 function displayQuote() {
     $('#soundd').get(0).pause()
     $('#soundB').addClass("fa-play").removeClass("fa-pause")
     item = jsonData[Math.floor(Math.random() * jsonData.length)]
-    console.log(item)
     fadeInBackgroundImage(item);
 }
 
 function fadeInBackgroundImage(item) {
-    console.log(item["sound"])
     if (item["sound"] == null) {
-        $('.snd').hide()
+        $('#soundB').addClass("fa-volume-off").removeClass("fa-pause").removeClass("fa-play")
+        $('#sound-button').prop('disabled', true);
     }
     else {
-        $('.snd').show()
+        $('#soundB').removeClass("fa-volume-off").addClass("fa-play")
+        $('#sound-button').prop('disabled', false);
     }
     $('#soundd').attr("src", item["sound"])
     $('#quote').text(item["quote"])
