@@ -27,3 +27,18 @@ button{
 .dropdown-menu{
     background-color: #ffffff;
 }
+.dropdown-toggle::after {
+    content: none;
+}
+.wonderListItem:hover{
+    background-color: #eeca44;
+}
+.offcanvas-body{
+    padding:0px;
+}
+.offcanvas-title{
+    color: black;
+}
+.nav-link{
+    color:black;
+}

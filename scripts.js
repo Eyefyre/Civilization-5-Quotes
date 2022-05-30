@@ -6,21 +6,29 @@ async function loadLanguageData(lang) {
     var json = await fetch("https://eyefyre.github.io/Civilization-5-Quotes/JSONData/Quotes" + lang + ".json");
     jsonData = await json.json();
     populateWonderSelection()
+    displayRandomQuote()
 }
 
-function populateWonderSelection() {
-    for (var i = 0; i < jsonData.length; i++) {
-        var n = jsonData[i]["name"].split("|")[0]
-        $("#wonderrow").append("<div class='col'>" + n + "</div>")
-    }
-    displayQuote()
-}
-
-
-function displayQuote() {
+function displayRandomQuote(){
     $('#soundd').get(0).pause()
     $('#soundB').addClass("fa-play").removeClass("fa-pause")
     item = jsonData[Math.floor(Math.random() * jsonData.length)]
+    fadeInBackgroundImage(item);
+}
+
+function populateWonderSelection() {
+    $("#wonderList").empty()
+    for (var i = 0; i < jsonData.length; i++) {
+        var n = jsonData[i]["name"].split("|")[0]
+        $("#wonderList").append("<li id='" + i + "' class='nav-item w-100 wonderListItem px-3'><button class='nav-link w-100' data-bs-dismiss='offcanvas' aria-current='page' onclick='displayQuote("+ i + ")'><h4>" + n + "</h4></button></li>")
+    }
+}
+
+function displayQuote(wonderID) {
+    populateWonderSelection()
+    $('#soundd').get(0).pause()
+    $('#soundB').addClass("fa-play").removeClass("fa-pause")
+    item = jsonData[wonderID]
     fadeInBackgroundImage(item);
 }
 
@@ -43,7 +51,7 @@ function fadeInBackgroundImage(item) {
     $("#background-image").css("-webkit-background-size", "cover")
     $("#background-image").hide()
     $('#background-image').fadeIn(2000, function () {
-        $("#black-faded-background").fadeIn(1500)
+        $("#black-faded-background").fadeIn(1000)
     })
 }
 
